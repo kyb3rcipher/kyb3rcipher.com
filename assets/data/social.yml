@@ -1,0 +1,88 @@
+# 001: Github
+github:
+  Weight: 1
+  Prefix: https://github.com/
+  Title: GitHub
+  Icon:
+    Class: fab fa-github fa-fw
+
+# 002: Twitter
+twitter:
+  Weight: 2
+  Prefix: https://twitter.com/
+  Title: Twitter
+  Icon:
+    Class: fab fa-twitter fa-fw
+
+# 003: Instagram
+instagram:
+  Weight: 3
+  Prefix: https://www.instagram.com/
+  Title: Instagram
+  Icon:
+    Class: fab fa-instagram fa-fw
+
+# 004: LinkedIn
+linkedin:
+  Weight: 4
+  Prefix: https://linkedin.com/in/
+  Title: LinkedIn
+  Icon:
+    Class: fab fa-linkedin fa-fw
+
+# 005: Keybase
+keybase:
+  Weight: 5
+  Prefix: https://keybase.io/
+  Title: Keybase
+  Icon:
+    Class: fab fa-keybase fa-fw
+
+# 006: Telegram
+telegram:
+  Weight: 6
+  Prefix: https://t.me/
+  Title: Telegram
+  Icon:
+    Class: fab fa-telegram-plane fa-fw
+
+# 007: Reddit
+reddit:
+  Weight: 7
+  Prefix: https://www.reddit.com/user/
+  Title: Reddit
+  Icon:
+    Class: fab fa-reddit fa-fw
+
+# 008: Pronouns
+pronouns:
+  Weight: 8
+  Prefix: https://en.pronouns.page
+  Title: Pronouns
+  Icon:
+    Class: fas fa-bullhorn fa-fw
+
+# 009: Snapchat
+snapchat:
+  Weight: 9
+  Prefix: https://www.snapchat.com/add/
+  Title: Snapchat
+  Icon:
+    Class: fab fa-snapchat fa-fw
+
+# 010: Email
+email:
+  Weight: 10
+  Template: mailto:%v
+  Title: Email
+  Icon:
+    Class: far fa-envelope fa-fw
+
+# 011: RSS
+rss:
+  Weight: 11
+  Url: /index.xml
+  Title: RSS
+  Newtab: true
+  Icon:
+    Class: fas fa-rss fa-fw

@@ -1,0 +1,195 @@
+baseURL = "https://kyb3rvizsla.com"
+title = "Kyb3r Vizsla"
+
+# language
+languageCode = "en-us"
+defaultContentLanguage = "en"
+
+# theme
+theme = "DoIt"
+# emojis enable
+enableEmoji = true
+[params.page]
+# font awesome enable
+fontawesome = true
+# pages styles ("normal", "wide")
+pageStyle = "wide"
+
+[params]
+  # DoIt theme version
+  version = "0.2.X"
+  # site description
+  description = "Kyb3r Vizsla Blog and Website"
+  # site keywords
+  keywords = ["Kyb3r", "Kyb3r Vizsla", "Hacker", "Geek", "Aesthetic",]
+  # site default theme ("light", "dark", "auto")
+  defaultTheme = "auto"
+  # others
+  enablePWA = true
+  dateFormat = "2006-01-02"
+  gitRepo = "https://github.com/kyb3rvizsla/kyb3rvizsla.com"
+  # website images for Open Graph and Twitter Cards
+  images = ["/logo.png"]
+
+[params.app]
+  # optional site title override for the app when added to an iOS home screen or Android launcher
+  title = "Kyb3r Vizsla"
+  # whether to omit favicon resource links
+  noFavicon = false
+  # modern SVG favicon to use in place of older style .png and .ico files
+  svgFavicon = ""
+  # Android browser theme color
+  themeColor = "#ffffff"
+  # Safari mask icon color
+  iconColor = "#5bbad5"
+  # Windows v8-10 tile color
+  tileColor = "#da532c"
+
+# search config
+[params.search]
+  enable = false
+  type = "algolia"
+  # max index length of the chunked content
+  contentLength = 4000
+  # placeholder of the search bar
+  placeholder = ""
+  # max number of results length
+  maxResultLength = 10
+  # snippet length of the result
+  snippetLength = 30
+  # HTML tag name of the highlight part in results
+  highlightTag = "em"
+  # whether to use the absolute URL based on the baseURL in search index
+  absoluteURL = false
+  [params.search.algolia]
+    index = "index.en"
+    appID = "PASDMWALPK"
+    searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+
+  # Home page config
+  [params.home]
+    # amount of RSS pages
+    rss = 10
+    # Home page profile
+    [params.home.profile]
+      # Gravatar Profile Photo Email
+      gravatarEmail = "me@kyb3rvizsla.com"
+      title = "Kyb3r Vizsla"
+      subtitle = "💻 Programmer/SysAdmin/Hacker?"
+      typeit = true
+      social = true
+      #disclaimer = "Don't forget to check:"
+    # Home page posts
+    [params.home.posts]
+      enable = true
+      # posts in home
+      paginate = 6
+      defaultHiddenFromHomePage = false
+
+[params.social]
+  GitHub = "kyb3rvizsla"
+  Twitter = "kyb3rvizsla"
+  Instagram = "kyb3rvizsla"
+  linkedin = "kyb3rvizsla"
+  Keybase = "kyb3rvizsla"
+  Telegram = "kyb3rvizsla"
+  Pronouns = "@kyb3rvizsla"
+  Reddit = "kybervizsla"
+  Snapchat = "kyb3rvizsla"
+  Email = "contact@kyb3rvizsla.com"
+  RSS = true
+
+# Navbar config
+[menu]
+  [[ menu.main ]]
+    identifier = "blog"
+    name = "Blog"
+    pre = '<i class="fas fa-newspaper"></i>'
+    title = "My blog."
+    url = "/posts"
+    weight = 1
+
+  [[ menu.main ]]
+    identifier = "profiles"
+    name = "Profiles"
+    pre = '<i class="fas fa-users"></i>'
+    title = "My all official accounts."
+    url = "/profiles"
+    weight = 2
+
+  [[ menu.main ]]
+    identifier = "about"
+    name = "About"
+    pre = '<i class="fas fa-info"></i>'
+    title = "About and contact me."
+    url = "/about"
+    weight = 3
+
+# Header config
+[params.header]
+  # desktop header mode ("fixed", "normal", "auto")
+  desktopMode = "fixed"
+  # mobile header mode ("fixed", "normal", "auto")
+  mobileMode = "auto"
+  [params.header.title]
+    name = "Kyb3r"
+
+# Footer config
+[params.footer]
+  enable = true
+  # Gohugo info
+  hugo = false
+  # copyright infomation
+  copyright = true
+  # author information
+  author = true
+  # site creation time
+  since = 2021
+  license = '<a rel="license external nofollow noopener noreffer" href="https://github.com/kyb3rvizsla/kyb3rvizsla.com/blob/main/LICENSE" target="_blank">License & Copyright</a>'
+
+  # section (all posts) page config
+  [params.section]
+    # special amount of posts in each section page
+    paginate = 20
+    # date format (month and day)
+    dateFormat = "01-02"
+    # amount of RSS pages
+    rss = 10
+
+  # page config
+  [params.list]
+    # special amount of posts in each list page
+    paginate = 20
+    # date format (month and day)
+    dateFormat = "01-02"
+    # amount of RSS pages
+    rss = 10
+
+[params.page.share]
+  enable = true
+  Reddit = true
+  Twitter = true
+  Facebook = true
+  Whatsapp = true
+  HackerNews = true
+
+# Cookies consent config
+[params.cookieconsent]
+  enable = true
+  [params.cookieconsent.content]
+    message = "This website uses cookies and analytics to improve your user experience we respect your privacy."
+
+# Analytics config
+[params.analytics]
+  enable = true
+  # Google Analytics
+  [params.analytics.google]
+    id = "G-WGH7R604WZ"
+    # whether to anonymize IP
+    anonymizeIP = true
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark.renderer]
+    unsafe= true
