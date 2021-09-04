@@ -9,6 +9,9 @@ defaultContentLanguage = "en"
 theme = "DoIt"
 # emojis enable
 enableEmoji = true
+# git info update in posts
+enableGitInfo = true
+enableRobotsTXT = true
 [params.page]
 # font awesome enable
 fontawesome = true
@@ -78,7 +81,7 @@ pageStyle = "wide"
       subtitle = "💻 Programmer/SysAdmin/Hacker?"
       typeit = true
       social = true
-      #disclaimer = "Don't forget to check:"
+      disclaimer = "Don't forget to check:"
     # Home page posts
     [params.home.posts]
       enable = true
