@@ -21,7 +21,6 @@ Vizsla comes from the [clan](https://starwars.fandom.com/wiki/Clan_Vizsla) that 
 ### Keybase
 [Keybase](https://keybase.io) is for me the best way in which you can contact me, the encryption that the PGP key technology has is simply too secure, my keybase profile is [kyb3rvizsla](https://keybase.io/kyb3rvizsla) you can send me a private message or make your own message with PGP by clicking [here](https://keybase.io/encrypt#kyb3rvizsla).
 
-![Keybase Banner](/images/keybase.png)
 ![Keybase Maessenge](/images/keybase_message.png)
 
 ### PGP
