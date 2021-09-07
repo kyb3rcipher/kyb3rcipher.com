@@ -2,7 +2,7 @@
 title: "Archetype - HackTheBox Writeup"
 description: ""
 author: "Kyb3r"
-authorLink: "#"
+authorLink: "https://twitter.com/kyb3rvizsla"
 lightgallery: false
 date: 2021-08-17T12:00:01-05:00
 lastmod: 2021-08-17T12:00:01-05:00

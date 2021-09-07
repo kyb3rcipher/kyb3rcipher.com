@@ -2,7 +2,7 @@
 title: "Why not create more Linux distributions"
 description: ""
 author: "Kyb3r"
-authorLink: "#"
+authorLink: "https://twitter.com/kyb3rvizsla"
 lightgallery: false
 date: 2021-08-10T17:16:42-05:00
 lastmod: 2021-08-10T17:16:42-05:00

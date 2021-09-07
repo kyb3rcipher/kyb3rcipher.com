@@ -2,7 +2,7 @@
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 description: ""
 author: "Kyb3r"
-authorLink: "#"
+authorLink: "https://twitter.com/kyb3rvizsla"
 lightgallery: false
 date: {{ .Date }}
 lastmod: {{ .Date }}
