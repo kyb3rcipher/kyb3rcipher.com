@@ -9,8 +9,8 @@ lastmod: 2021-09-07T13:34:21-05:00
 resources:
 - name: "featured-image"
   src: "featured-image.jpg"
-tags: []
-categories: []
+tags: [privacy]
+categories: [privacy]
 draft: false
 ---
 A debate that has always had the question of "**What do you have to hide?**" It has always been present when it comes to privacy on the internet, but how necessary is privacy?
