@@ -18,7 +18,7 @@ A debate that has always had the question of "**What do you have to hide?**" It 
 ## Basic
 I think we should start at the beginning by defining privacy. The Cambridge dictionary defines it as:
 
-**["Someone's right to keep their personal matters and relationships secret"](https://dictionary.cambridge.org/us/dictionary/english/privacy)**
+> **"Someone's right to keep their personal matters and relationships secret"**
 
 In computing we can save personal data, when we access a site or upload something to the internet, this data is created many times from locations, photos, relationships with other people or dates of birth. This often helps as the theme of saving cookies that you had in your shopping cart means that you do not have to add everything manually or save your email so that your friends can find you.
 
