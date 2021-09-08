@@ -9,7 +9,7 @@ lastmod: 2021-09-07T16:04:02-05:00
 resources:
 - name: "featured-image"
   src: "featured-image.jpeg"
-tags: [htb, writeup, hackthebox, ctf]
+tags: [htb, writeup, hackthebox, starting-point, ctf]
 categories: [writeup, hackthebox, ctf]
 draft: false
 ---
@@ -279,3 +279,5 @@ The admin banner is on the desktop at home.
 ## Video
 
 [Comming soon...](https://www.youtube.com/channel/UCOJ5LhsjIFIB5k5IjHtJTGA)
+
+To see the complete series "Starting Point" from HackTheBox click [here](/tags/starting-point).
