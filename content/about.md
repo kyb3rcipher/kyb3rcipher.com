@@ -85,7 +85,7 @@ kyb3r@vizsla:~$ gpg --encrypt --sign --armor -r your_email@kyb3rvizsla.com file.
 Then you should send me the message with the ending **.asc**.
 
 ### ProtonMail
-A mail service encrypted and safe, you can contact me directly to my mail in Protonmail with the address kyb3rvizsla@protonmail.com.
+You can contact me directly to my mail in Protonmail with the address kyb3rvizsla@protonmail.com. Due to the new case of ProtonMail [delivering data as IP](https://pocketnow.com/protonmail-share-activist-ip-address) I recommend that when you use ProtonMail you do it through a VPN or the [TOR network](https://www.torproject.org), but preferably send me an unencrypted email but you encrypt yourself under PGP.
 
 ### Email
 If you are an institution or a company, you must contact me with the email contact@kyb3rvizsla.com, if you are a person or a very small group, do it to my personal email me@kyb3rvizsla.com (I do not accept spam, you will be automatically blocked nor will I accept non-important things in that case send me spam@kyb3rvizsla.com)
