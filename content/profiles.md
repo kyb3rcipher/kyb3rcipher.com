@@ -51,8 +51,8 @@ In all my profiles I use the usernames **@kyb3rvizsla** or **@kybervizsla**.
     <a href="https://app.hackthebox.eu/users/13569" target="_blank"><div class="box">
         <i class="si si-hackthebox fa-2x"></i> <p>HackTheBox</p>
     </div></a>
-    <a href="https://ctftime.org/user/115253" target="_blank"><div class="box">
-        <i class="fas fa-flag fa-2x"></i> <p>CTFtime</p>
+    <script>function discord_alert(){alert("My Discord user is: kyb3rvizsla#9104");}</script><a onclick="discord_alert()" style="cursor: pointer;"><div class="box">
+        <i class="si si-discord fa-2x"></i> <p>Discord</p>
     </div></a>
     <a href="https://twitch.com/kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-twitch fa-2x"></i> <p>Twitch</p>
@@ -65,6 +65,9 @@ In all my profiles I use the usernames **@kyb3rvizsla** or **@kybervizsla**.
 <br><br>
 <h2 style="text-align: center;">Others</h2>
 <div class="container3">
+    <a href="https://ctftime.org/user/115253" target="_blank"><div class="box">
+        <i class="fas fa-flag fa-2x"></i> <p>CTFtime</p>
+    </div></a>
     <a href="https://mastodon.social/@kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-mastodon fa-2x"></i> <p>Mastodon</p>
     </div></a>

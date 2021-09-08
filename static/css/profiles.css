@@ -44,8 +44,8 @@ h1, h2, p{
 
 .container3{
     width: 78%;
+    margin-left: 06%;
     height: 40px;
-    margin: auto;
     margin-top: 2%;
     display: flex;
     padding: 5px;
