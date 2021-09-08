@@ -100,12 +100,20 @@ pageStyle = "wide"
     weight = 2
 
   [[ menu.main ]]
+    identifier = "writeups"
+    name = "Writeups"
+    pre = '<i class="fas fa-spider"></i>'
+    title = "CTF writeups."
+    url = "/categories/writeup/"
+    weight = 3
+
+  [[ menu.main ]]
     identifier = "about"
     name = "About"
     pre = '<i class="fas fa-info"></i>'
     title = "About and contact me."
     url = "/about"
-    weight = 3
+    weight = 4
 
 # Header config
 [params.header]
@@ -115,6 +123,20 @@ pageStyle = "wide"
   mobileMode = "auto"
   [params.header.title]
     name = "Kyb3r"
+
+# search config
+[params.search]
+  enable = true
+  type = "algolia"
+  contentLength = 4000 # max index length of the chunked content
+  maxResultLength = 10 # max number of results length
+  snippetLength = 30 # snippet length of the result
+  highlightTag = "em" # HTML tag name of the highlight part in results
+  absoluteURL = false # whether to use the absolute URL based on the baseURL in search index
+  [params.search.algolia]
+    index = "index.en"
+    appID = "PASDMWALPK"
+    searchKey = "b42948e51daaa93df92381c8e2ac0f93"
 
 # Footer config
 [params.footer]
@@ -129,23 +151,23 @@ pageStyle = "wide"
   since = 2021
   license = '<a rel="license external nofollow noopener noreffer" href="https://github.com/kyb3rvizsla/kyb3rvizsla.com/blob/main/LICENSE" target="_blank">License & Copyright</a>'
 
-  # section (all posts) page config
-  [params.section]
-    # special amount of posts in each section page
-    paginate = 20
-    # date format (month and day)
-    dateFormat = "01-02"
-    # amount of RSS pages
-    rss = 10
+# section (all posts) page config
+[params.section]
+  # special amount of posts in each section page
+  paginate = 20
+  # date format (month and day)
+  dateFormat = "01-02"
+  # amount of RSS pages
+  rss = 10
 
-  # page config
-  [params.list]
-    # special amount of posts in each list page
-    paginate = 20
-    # date format (month and day)
-    dateFormat = "01-02"
-    # amount of RSS pages
-    rss = 10
+# page config
+[params.list]
+  # special amount of posts in each list page
+  paginate = 20
+  # date format (month and day)
+  dateFormat = "01-02"
+  # amount of RSS pages
+  rss = 10
 
 [params.page.share]
   enable = true
