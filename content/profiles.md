@@ -57,7 +57,7 @@ In all my profiles I use the usernames **@kyb3rvizsla** or **@kybervizsla**.
     <a href="https://twitch.com/kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-twitch fa-2x"></i> <p>Twitch</p>
     </div></a>
-    <a href="https://www.youtube.com/channel/UCOJ5LhsjIFIB5k5IjHtJTGA" target="_blank"><div class="box">
+    <a href="https://www.youtube.com/channel/UC3gvBSZDfgDaDLSWvWAJ5fQ" target="_blank"><div class="box">
         <i class="si si-youtube fa-2x"></i> <p>Youtube</p>
     </div></a>
 </div>
@@ -65,9 +65,6 @@ In all my profiles I use the usernames **@kyb3rvizsla** or **@kybervizsla**.
 <br><br>
 <h2 style="text-align: center;">Others</h2>
 <div class="container3">
-    <a href="https://ctftime.org/user/115253" target="_blank"><div class="box">
-        <i class="fas fa-flag fa-2x"></i> <p>CTFtime</p>
-    </div></a>
     <a href="https://mastodon.social/@kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-mastodon fa-2x"></i> <p>Mastodon</p>
     </div></a>
@@ -85,6 +82,9 @@ In all my profiles I use the usernames **@kyb3rvizsla** or **@kybervizsla**.
     </div></a>
     <a href="https://www.xboxgamertag.com/search/kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-xbox fa-2x"></i> <p>Xbox</p>
+    </div></a>
+    <a href="https://ctftime.org/user/115253" target="_blank"><div class="box">
+        <i class="fas fa-flag fa-2x"></i> <p>CTFtime</p>
     </div></a>
     <a href="https://pixelfed.social/kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-insomnia fa-2x"></i> <p>Pixelfed</p>
