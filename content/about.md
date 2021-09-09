@@ -9,19 +9,19 @@ Hello, I am Kyb3r a simple Geek :glasses:. Currently I study programming, pentes
 ### What is Kyb3r?
 "A kyber crystal, simply known as a kyber, also called a lightsaber crystal, the living crystal and known in ancient times as a kyber crystal, were rare, Force-attuned crystals that grew in nature and were found on scattered planets across the galaxy" ([Wookieepedia](https://starwars.fandom.com/wiki/Kyber_crystal)).
 
-![Kyber Cristal](/images/kyber.jpg)
+![Kyber Cristal](/images/about/kyber.jpg)
 
 ### What is Vizsla?
 Vizsla comes from the [clan](https://starwars.fandom.com/wiki/Clan_Vizsla) that bears the same surname as [Tarre Vizsla](https://starwars.fandom.com/wiki/Tarre_Vizsla), the first Jedi Mandalorian knight, creator of the only black lightsaber with a katana type so far.
 
-![Tarre Vizsla](/images/tarre_vizsla.jpg)
+![Tarre Vizsla](/images/about/tarre_vizsla.jpg)
 
 ## Contact me
 
 ### Keybase
 [Keybase](https://keybase.io) is for me the best way in which you can contact me, the encryption that the PGP key technology has is simply too secure, my keybase profile is [kyb3rvizsla](https://keybase.io/kyb3rvizsla) you can send me a private message or make your own message with PGP by clicking [here](https://keybase.io/encrypt#kyb3rvizsla).
 
-![Keybase Maessenge](/images/keybase_message.png)
+![Keybase Maessenge](/images/about/keybase_message.png)
 
 ### PGP
 First install a pgp client, you can use [gpg](https://gnupg.org).Then create or [download](https://keybase.io/kyb3rvizsla/pgp_keys.asc) a copy of my public key.
@@ -80,7 +80,7 @@ Then create a plain text file with the message. And when you have [generated](ht
 ```bash
 kyb3r@vizsla:~$ gpg --encrypt --sign --armor -r your_email@kyb3rvizsla.com file.txt
 ```
-![Messenge PGP](/images/messenge_pgp.png)
+![Messenge PGP](/images/about/messenge_pgp.png)
 
 Then you should send me the message with the ending **.asc**.
 

@@ -72,7 +72,7 @@ pageStyle = "wide"
   GitHub = "kyb3rvizsla"
   Twitter = "kyb3rvizsla"
   Instagram = "kyb3rvizsla"
-  linkedin = "kyb3rvizsla"
+  Linkedin = "kyb3rvizsla"
   Keybase = "kyb3rvizsla"
   Telegram = "kyb3rvizsla"
   Pronouns = "@kyb3rvizsla"
@@ -99,13 +99,21 @@ pageStyle = "wide"
     url = "/profiles"
     weight = 2
 
+    [[ menu.main ]]
+    identifier = "proyects"
+    name = "Proyects"
+    pre = '<i class="fas fa-puzzle-piece"></i>'
+    title = "My proyects."
+    url = "/proyects"
+    weight = 3
+
   [[ menu.main ]]
     identifier = "writeups"
     name = "Writeups"
     pre = '<i class="fas fa-spider"></i>'
     title = "CTF writeups."
     url = "/categories/writeup/"
-    weight = 3
+    weight = 4
 
   [[ menu.main ]]
     identifier = "about"
@@ -113,7 +121,7 @@ pageStyle = "wide"
     pre = '<i class="fas fa-info"></i>'
     title = "About and contact me."
     url = "/about"
-    weight = 4
+    weight = 5
 
 # Header config
 [params.header]
