@@ -112,7 +112,7 @@ pageStyle = "wide"
     name = "Writeups"
     pre = '<i class="fas fa-spider"></i>'
     title = "CTF writeups."
-    url = "/categories/writeup/"
+    url = "/categories/writeup"
     weight = 4
 
   [[ menu.main ]]
