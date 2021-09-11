@@ -61,7 +61,7 @@ We will enter the newly created folder with ```cd customarch```.
 The file structure is:
 
 - :(fas fa-file-alt ): **pacman.conf** It is the configuration file of the pacman package manager and in which we will add the repositories that we want for custom packages that are already installed in our archcustom.
-- :(fas fa-file-alt ): **packages.x86_64** List of packages that our customarchiso will bring by default.
+- :(fas fa-file-alt): **packages.x86_64** List of packages that our customarchiso will bring by default.
 - :(fas fa-folder): **airootfs** This folder should be treated as the root (**/**) of our new system.
 - :(fas fa-folder): **efiboot** Configuration files for UEFI boot mode.
 - :(fas fa-folder): **syslinux** Configuration files for Legacy boot mode.
