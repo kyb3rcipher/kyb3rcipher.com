@@ -191,6 +191,14 @@ pageStyle = "wide"
   [params.cookieconsent.content]
     message = "This website uses cookies and analytics to improve your user experience we respect your privacy."
 
+[params.page.toc] # To apply the pageStyle when compiling into vercel/netlify
+      # whether to enable the table of the contents
+      enable = true
+      # whether to keep the static table of the contents in front of the post
+      keepStatic = false
+      # whether to make the table of the contents in the sidebar automatically collapsed
+      auto = true
+
 # Analytics config
 [params.analytics]
   enable = true
