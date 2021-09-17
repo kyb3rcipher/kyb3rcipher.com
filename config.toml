@@ -134,7 +134,7 @@ pageStyle = "wide"
 
 # search config
 [params.search]
-  enable = true
+  enable = false
   type = "algolia"
   contentLength = 4000 # max index length of the chunked content
   maxResultLength = 10 # max number of results length
