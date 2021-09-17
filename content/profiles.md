@@ -3,7 +3,7 @@ title: "Profiles"
 layout: "profiles"
 ---
 # Profiles
-In all my profiles I use the usernames **@kyb3rvizsla** or **@kybervizsla**.
+In all my profiles I use the usernames **@kyb3rvizsla**,**@kybervizsla** or **@gaelvizsla**.
 
 <!--HTML-->
 <div class="container1">
@@ -76,6 +76,9 @@ In all my profiles I use the usernames **@kyb3rvizsla** or **@kybervizsla**.
     </div></a>
     <a href="https://vsco.co/kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-vsco fa-2x"></i> <p>VSCO</p>
+    </div></a>
+    <a href="https://open.spotify.com/user/3e7zcx4j0yv93iqbv78v4i6kq" target="_blank"><div class="box">
+        <i class="si si-spotify fa-2x"></i> <p>Spotify</p>
     </div></a>
     <a href="https://psnprofiles.com/kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-playstation fa-2x"></i> <p>PlayStation</p>
