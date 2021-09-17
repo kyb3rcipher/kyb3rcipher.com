@@ -157,7 +157,7 @@ pageStyle = "wide"
   author = true
   # site creation time
   since = 2021
-  license = '<a rel="license external nofollow noopener noreffer" href="https://github.com/kyb3rvizsla/kyb3rvizsla.com/blob/main/LICENSE" target="_blank">License & Copyright</a>'
+  license = '<a rel="license external nofollow noopener noreffer" href="/license">License & Copyright</a>'
 
 # section (all posts) page config
 [params.section]
