@@ -14,6 +14,9 @@ In all my profiles I use the usernames **@kyb3rvizsla**,**@kybervizsla** or **@g
         <i class="si si-gitlab fa-2x"></i> <p>GitLab</p>
     </div></a>
     <a href="https://twitter.com/kyb3rvizsla" target="_blank"><div class="box">
+        <i class="fab fa-twitter-square fa-2x"></i> <p>Twitter Tech</p>
+    </div></a>
+    <a href="https://twitter.com/gaelvizsla" target="_blank"><div class="box">
         <i class="si si-twitter fa-2x"></i> <p>Twitter</p>
     </div></a>
     <a href="https://instagram.com/kyb3rvizsla" target="_blank"><div class="box">

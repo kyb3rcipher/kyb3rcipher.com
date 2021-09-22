@@ -9,7 +9,6 @@ github:
 # 002: Twitter
 twitter:
   Weight: 2
-  Prefix: https://twitter.com/
   Title: Twitter
   Icon:
     Class: fab fa-twitter fa-fw
