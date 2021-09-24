@@ -70,8 +70,8 @@ pageStyle = "wide"
 
 [params.social]
   GitHub = "kyb3rvizsla"
-  Twitter = "/twitter"
-  Instagram = "kyb3rvizsla"
+  Twitter = "/profiles/twitter"
+  Instagram = "/profiles/instagram"
   Linkedin = "kyb3rvizsla"
   Keybase = "kyb3rvizsla"
   Telegram = "kyb3rvizsla"
@@ -131,20 +131,7 @@ pageStyle = "wide"
   mobileMode = "auto"
   [params.header.title]
     name = "Kyb3r"
-
-# search config
-[params.search]
-  enable = false
-  type = "algolia"
-  contentLength = 4000 # max index length of the chunked content
-  maxResultLength = 10 # max number of results length
-  snippetLength = 30 # snippet length of the result
-  highlightTag = "em" # HTML tag name of the highlight part in results
-  absoluteURL = false # whether to use the absolute URL based on the baseURL in search index
-  [params.search.algolia]
-    index = "index.en"
-    appID = "PASDMWALPK"
-    searchKey = "b42948e51daaa93df92381c8e2ac0f93"
+    typeit = "true"
 
 # Footer config
 [params.footer]

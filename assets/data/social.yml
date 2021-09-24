@@ -16,8 +16,7 @@ twitter:
 # 003: Instagram
 instagram:
   Weight: 3
-  Prefix: https://www.instagram.com/
-  Title: Instagram
+  Title: My Instagram accounts
   Icon:
     Class: fab fa-instagram fa-fw
 

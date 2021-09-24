@@ -5,7 +5,7 @@ h1, h2, p{
 .container1{
     width: 78%;
     height: 40px;
-    margin-left: 09%;
+    margin-left: 13%;
     margin-top: 2%;
     display: flex;
     padding: 5px;
@@ -44,7 +44,7 @@ h1, h2, p{
 
 .container3{
     width: 78%;
-    margin-left: 03%;
+    margin-left: 16%;
     height: 40px;
     margin-top: 2%;
     display: flex;
@@ -62,10 +62,31 @@ h1, h2, p{
     margin-top: 2px;
 }
 
+.container4{
+    width: 78%;
+    margin-left: 15%;
+    height: 40px;
+    margin-top: 2%;
+    display: flex;
+    padding: 5px;
+}
+.container4 .box{
+    width: 140px;
+    height: 30px;
+    margin: auto;
+    display: flex;
+    padding: 5px;
+}
+.container4 .box p{
+    margin-left: 10%;
+    margin-top: 2px;
+}
+
 @media screen and (max-width: 1440px) {
     .container1 {display: contents;}
     .container2 {display: contents;}
     .container3 {display: contents;}
+    .container4 {display: contents;}
 }
 
 @media screen and (min-width: 2560px) {
@@ -86,6 +107,14 @@ h1, h2, p{
         padding: 5px;
     }
     .container3{
+        width: 78%;
+        height: 40px;
+        margin-left:20%;
+        margin-top: 2%;
+        display: flex;
+        padding: 5px;
+    }
+    .container4{
         width: 78%;
         height: 40px;
         margin-left:20%;
