@@ -36,9 +36,6 @@ In all my profiles I use the usernames **[@kyb3rvizsla](/profiles/kyb3rvizsla)**
     </div></a>
 </div>
 <div class="container2">
-    <a href="https://reddit.com/u/kybervizsla" target="_blank"><div class="box">
-        <i class="si si-reddit fa-2x"></i> <p>Reddit</p>
-    </div></a>
     <a href="https://snapchat.com/add/kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-snapchat fa-2x"></i> <p>Snapchat</p>
     </div></a>
@@ -68,7 +65,10 @@ In all my profiles I use the usernames **[@kyb3rvizsla](/profiles/kyb3rvizsla)**
     <a href="https://mastodon.social/@kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-mastodon fa-2x"></i> <p>Mastodon</p>
     </div></a>
-    <a href="https://tryhackme.com/p/kyb3rvizsla" target="_blank"><div class="box">
+    <a href="https://reddit.com/u/kybervizsla" target="_blank"><div class="box">
+        <i class="si si-reddit fa-2x"></i> <p>Reddit</p>
+    </div></a>
+    <a href="https://tryhackme.com/p/gaelvizslaa" target="_blank"><div class="box">
         <i class="si si-tryhackme fa-2x"></i> <p>TryHackMe</p>
     </div></a>
     <a href="https://app.hackthebox.eu/users/13569" target="_blank"><div class="box">

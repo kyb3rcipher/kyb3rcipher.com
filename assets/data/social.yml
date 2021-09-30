@@ -44,41 +44,33 @@ telegram:
   Icon:
     Class: fab fa-telegram-plane fa-fw
 
-# 007: Reddit
-reddit:
-  Weight: 7
-  Prefix: https://www.reddit.com/user/
-  Title: Reddit
-  Icon:
-    Class: fab fa-reddit fa-fw
-
-# 008: Pronouns
+# 007: Pronouns
 pronouns:
-  Weight: 8
+  Weight: 7
   Prefix: https://en.pronouns.page
   Title: Pronouns
   Icon:
     Class: fas fa-bullhorn fa-fw
 
-# 009: Snapchat
+# 008: Snapchat
 snapchat:
-  Weight: 9
+  Weight: 8
   Prefix: https://www.snapchat.com/add/
   Title: Snapchat
   Icon:
     Class: fab fa-snapchat fa-fw
 
-# 010: Email
+# 009: Email
 email:
-  Weight: 10
+  Weight: 9
   Template: mailto:%v
   Title: Email
   Icon:
     Class: far fa-envelope fa-fw
 
-# 011: RSS
+# 010: RSS
 rss:
-  Weight: 11
+  Weight: 10
   Url: /index.xml
   Title: RSS
   Newtab: true
