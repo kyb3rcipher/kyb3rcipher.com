@@ -2,7 +2,7 @@ baseURL = "https://kyb3rvizsla.com"
 title = "Kyb3r Vizsla"
 
 # language
-languageCode = "en-us"
+languageCode = "en"
 defaultContentLanguage = "en"
 
 # theme
@@ -24,7 +24,7 @@ pageStyle = "wide"
   # site description
   description = "Kyb3r Vizsla Blog and Website"
   # site keywords
-  keywords = ["Kyb3r", "Kyb3r Vizsla", "Hacker", "Geek", "Aesthetic",]
+  keywords = ["Kyb3r", "Kyb3r Vizsla", "Hacker", "Geek", "Gael", "Gael Vizsla", "Aesthetic",]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # others
@@ -178,12 +178,12 @@ pageStyle = "wide"
     message = "This website uses cookies and analytics to improve your user experience we respect your privacy."
 
 [params.page.toc] # To apply the pageStyle when compiling into vercel/netlify
-      # whether to enable the table of the contents
-      enable = true
-      # whether to keep the static table of the contents in front of the post
-      keepStatic = false
-      # whether to make the table of the contents in the sidebar automatically collapsed
-      auto = true
+    # whether to enable the table of the contents
+    enable = true
+    # whether to keep the static table of the contents in front of the post
+    keepStatic = false
+    # whether to make the table of the contents in the sidebar automatically collapsed
+    auto = true
 
 # Analytics config
 [params.analytics]
