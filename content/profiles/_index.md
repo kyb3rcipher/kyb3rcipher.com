@@ -36,11 +36,8 @@ In all my profiles I use the usernames **[@kyb3rvizsla](/profiles/kyb3rvizsla)**
     </div></a>
 </div>
 <div class="container2">
-    <a href="https://snapchat.com/add/kyb3rvizsla" target="_blank"><div class="box">
+    <a href="https://snapchat.com/add/gaelvizlsa" target="_blank"><div class="box">
         <i class="si si-snapchat fa-2x"></i> <p>Snapchat</p>
-    </div></a>
-    <a href="https://snapchat.com/add/kyb3rvizsla.pub" target="_blank"><div class="box">
-        <i class="si si-snapchat fa-2x"></i> <p>Snapchat Public</p>
     </div></a>
     <a href="https://www.tiktok.com/@kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-tiktok fa-2x"></i> <p>Tiktok</p>
@@ -50,6 +47,9 @@ In all my profiles I use the usernames **[@kyb3rvizsla](/profiles/kyb3rvizsla)**
     </div></a>
     <a href="https://open.spotify.com/user/3e7zcx4j0yv93iqbv78v4i6kq" target="_blank"><div class="box">
         <i class="si si-spotify fa-2x"></i> <p>Spotify</p>
+    </div></a>
+    <a href="https://reddit.com/u/kybervizsla" target="_blank"><div class="box">
+        <i class="si si-reddit fa-2x"></i> <p>Reddit</p>
     </div></a>
     <a href="https://twitch.com/kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-twitch fa-2x"></i> <p>Twitch</p>
@@ -64,9 +64,6 @@ In all my profiles I use the usernames **[@kyb3rvizsla](/profiles/kyb3rvizsla)**
 <div class="container3">
     <a href="https://mastodon.social/@kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-mastodon fa-2x"></i> <p>Mastodon</p>
-    </div></a>
-    <a href="https://reddit.com/u/kybervizsla" target="_blank"><div class="box">
-        <i class="si si-reddit fa-2x"></i> <p>Reddit</p>
     </div></a>
     <a href="https://tryhackme.com/p/gaelvizslaa" target="_blank"><div class="box">
         <i class="si si-tryhackme fa-2x"></i> <p>TryHackMe</p>
