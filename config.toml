@@ -57,7 +57,7 @@ pageStyle = "wide"
       # Gravatar Profile Photo Email
       gravatarEmail = "me@kyb3rvizsla.com"
       title = "Kyb3r Vizsla"
-      subtitle = "💻 Programmer/SysAdmin/Hacker?"
+      subtitle = "💻 Programmer/SysAdmin/Hacker? • 📣 he/him"
       typeit = true
       social = true
       disclaimer = "Don't forget to check:"
@@ -75,7 +75,6 @@ pageStyle = "wide"
   Linkedin = "kyb3rvizsla"
   Keybase = "kyb3rvizsla"
   Telegram = "kyb3rvizsla"
-  Pronouns = "@kyb3rvizsla"
   Snapchat = "gaelvizsla"
   Email = "contact@kyb3rvizsla.com"
   RSS = true

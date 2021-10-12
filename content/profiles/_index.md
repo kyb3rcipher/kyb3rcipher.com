@@ -31,14 +31,11 @@ In all my profiles I use the usernames **[@kyb3rvizsla](/profiles/kyb3rvizsla)**
     <a href="https://t.me/kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-telegram fa-2x"></i> <p>Telegram</p>
     </div></a>
-    <a href="https://en.pronouns.page/@kyb3rvizsla" target="_blank"><div class="box">
-        <i class="fas fa-bullhorn fa-2x"></i> <p>Pronouns</p>
-    </div></a>
-</div>
-<div class="container2">
     <a href="https://snapchat.com/add/gaelvizlsa" target="_blank"><div class="box">
         <i class="si si-snapchat fa-2x"></i> <p>Snapchat</p>
     </div></a>
+</div>
+<div class="container2">
     <a href="https://www.tiktok.com/@kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-tiktok fa-2x"></i> <p>Tiktok</p>
     </div></a>
