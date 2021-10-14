@@ -48,6 +48,9 @@ In all my profiles I use the usernames **[@kyb3rvizsla](/profiles/kyb3rvizsla)**
     <a href="https://reddit.com/u/kybervizsla" target="_blank"><div class="box">
         <i class="si si-reddit fa-2x"></i> <p>Reddit</p>
     </div></a>
+    <a href="https://bio.kyb3rvizsla.com"><div class="box">
+        <i class="si si-biolink fa-2x"></i> <p>Bio.link</p>
+    </div></a>
     <a href="https://twitch.com/kyb3rvizsla" target="_blank"><div class="box">
         <i class="si si-twitch fa-2x"></i> <p>Twitch</p>
     </div></a>
