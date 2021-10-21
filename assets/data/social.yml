@@ -44,33 +44,25 @@ telegram:
   Icon:
     Class: fab fa-telegram-plane fa-fw
 
-# 007: Pronouns
-pronouns:
-  Weight: 7
-  Prefix: https://en.pronouns.page
-  Title: Pronouns
-  Icon:
-    Class: fas fa-bullhorn fa-fw
-
-# 008: Snapchat
+# 007: Snapchat
 snapchat:
-  Weight: 8
+  Weight: 7
   Prefix: https://www.snapchat.com/add/
   Title: Snapchat
   Icon:
     Class: fab fa-snapchat fa-fw
 
-# 009: Email
+# 008: Email
 email:
-  Weight: 9
+  Weight: 8
   Template: mailto:%v
   Title: Email
   Icon:
     Class: far fa-envelope fa-fw
 
-# 010: RSS
+# 009: RSS
 rss:
-  Weight: 10
+  Weight: 9
   Url: /index.xml
   Title: RSS
   Newtab: true
