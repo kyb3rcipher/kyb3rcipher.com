@@ -42,14 +42,14 @@ In all my profiles I use the usernames **[@kyb3rvizsla](/profiles/kyb3rvizsla)**
     <script>function discord_alert(){alert("My Discord user is: kyb3rvizsla#9104");}</script><a onclick="discord_alert()" style="cursor: pointer;"><div class="box">
         <i class="si si-discord fa-2x"></i> <p>Discord</p>
     </div></a>
-    <a href="https://open.spotify.com/user/3e7zcx4j0yv93iqbv78v4i6kq" rel="noopener noreffer" target="_blank"><div class="box">
-        <i class="si si-spotify fa-2x"></i> <p>Spotify</p>
-    </div></a>
-    <a href="https://reddit.com/u/kybervizsla" rel="noopener noreffer" target="_blank"><div class="box">
-        <i class="si si-reddit fa-2x"></i> <p>Reddit</p>
+    <a href="https://ko-fi.com/kyb3rvizsla" rel="noopener noreffer" target="_blank"><div class="box">
+        <i class="si si-kofi fa-2x"></i> <p>Ko-fi</p>
     </div></a>
     <a href="https://bio.kyb3rvizsla.com"><div class="box">
-        <i class="si si-biolink fa-2x"></i> <p>Bio.link</p>
+        <i class="si si-biolink fa-2x"></i> <p>Bio link</p>
+    </div></a>
+    <a href="https://open.spotify.com/user/3e7zcx4j0yv93iqbv78v4i6kq" rel="noopener noreffer" target="_blank"><div class="box">
+        <i class="si si-spotify fa-2x"></i> <p>Spotify</p>
     </div></a>
     <a href="https://twitch.com/kyb3rvizsla" rel="noopener noreffer" target="_blank"><div class="box">
         <i class="si si-twitch fa-2x"></i> <p>Twitch</p>

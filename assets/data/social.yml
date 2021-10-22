@@ -53,16 +53,24 @@ snapchat:
     Class: fab fa-snapchat fa-fw
 
 # 008: Email
-email:
+ko-fi:
   Weight: 8
+  Prefix: https://ko-fi.com/
+  Title: Ko-Fi
+  Icon:
+    Simpleicons: kofi
+
+# 009: Email
+email:
+  Weight: 9
   Template: mailto:%v
   Title: Email
   Icon:
     Class: far fa-envelope fa-fw
 
-# 009: RSS
+# 010: RSS
 rss:
-  Weight: 9
+  Weight: 10
   Url: /index.xml
   Title: RSS
   Newtab: true
