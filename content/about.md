@@ -16,6 +16,9 @@ Vizsla comes from the [clan](https://starwars.fandom.com/wiki/Clan_Vizsla) that 
 
 ![Tarre Vizsla](/images/about/tarre_vizsla.jpg)
 
+## Contribute
+You can support me in my projects (and my coffees :coffee:) in the [donation section](/donate) 💙.
+
 ## Contact me
 
 ### Keybase
