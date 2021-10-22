@@ -2,7 +2,7 @@
 title: "Kali Linux or Parrot OS?"
 description: "Kali Linux or Parrot OS a question that we have all asked ourselves but which is better?"
 author: "Kyb3r"
-authorLink: "https://twitter.com/kyb3rvizsla"
+authorLink: "/about"
 lightgallery: false
 date: 2021-09-10T21:32:02-05:00
 lastmod: 2021-09-10T21:32:02-05:00

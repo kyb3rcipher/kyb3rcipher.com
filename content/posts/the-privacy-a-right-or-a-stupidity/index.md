@@ -2,7 +2,7 @@
 title: "The privacy a right or a stupidity?"
 description: ""
 author: "Kyb3r"
-authorLink: "https://twitter.com/kyb3rvizsla"
+authorLink: "/about"
 lightgallery: false
 date: 2021-09-07T13:34:21-05:00
 lastmod: 2021-09-07T13:34:21-05:00

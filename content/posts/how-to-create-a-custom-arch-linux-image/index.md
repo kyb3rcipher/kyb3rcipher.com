@@ -2,7 +2,7 @@
 title: "How to create a custom Arch Linux image"
 description: ""
 author: "Kyb3r"
-authorLink: "https://twitter.com/kyb3rvizsla"
+authorLink: "/about"
 github: "customarch"
 lightgallery: false
 date: 2021-08-13T22:39:08-05:00

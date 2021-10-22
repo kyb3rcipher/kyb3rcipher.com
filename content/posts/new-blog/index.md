@@ -1,7 +1,7 @@
 ---
 title: "New Blog"
 author: "Kyb3r"
-authorLink: "https://twitter.com/kyb3rvizsla"
+authorLink: "/about"
 lightgallery: false
 date: 2021-05-13
 lastmod: 2021-05-13

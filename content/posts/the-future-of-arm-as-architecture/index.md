@@ -2,7 +2,7 @@
 title: "The future of ARM as architecture"
 description: "We have been using arms for years on our cell phones, but is this the future of computing?."
 author: "Kyb3r"
-authorLink: "https://twitter.com/kyb3rvizsla"
+authorLink: "/about"
 github: "rpi-image-builder"
 lightgallery: false
 date: 2021-10-21T17:07:06-05:00

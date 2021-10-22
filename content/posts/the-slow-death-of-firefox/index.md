@@ -2,7 +2,7 @@
 title: "The slow death of Firefox"
 description: "Firefox has accompanied us for years, it is always there in each Linux distro we install and for a long time there was a rivalry as to whether Chrome or Firefox was better, but will it be the end of the Fox browser?"
 author: "Kyb3r"
-authorLink: "https://twitter.com/kyb3rvizsla"
+authorLink: "/about"
 lightgallery: false
 date: 2021-09-13T00:05:06-05:00
 lastmod: 2021-09-13T00:05:06-05:00
