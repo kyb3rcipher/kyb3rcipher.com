@@ -8,3 +8,6 @@ title: "Instagram"
 
 ## [:(fab fa-instagram-square): - Technology instagram :(fas fa-user-cog fa-xs):](https://www.instagram.com/kyb3rvizsla)
 If you love technology, hacking or are a Geek follow me on my technology account.
+
+## [:(fab fa-instagram-square): - Private instagram :(fas fa-user-lock):](https://www.instagram.com/gaelvizsla.priv)
+If we are close friends you can see a little more of my life here.
