@@ -22,10 +22,10 @@ git commit -m "Refactor usability tests.
 Builder: New variables created
 Kernel: New modules fixed
 
-Co-authored-by: Kyb3r Vizsla <me@kyb3rvizsla.com>
+Co-authored-by: Kyb3r Kryze <me@kyb3rkryze.com>
 Co-authored-by: Linus Torvalds <torvalds@linux-foundation.org>"
 ```
-You can see the example [here](https://github.com/kyb3rvizslaalt/test/commit/22a81ae77c00d4125bc04bc950a40db9f403aaa8).
+You can see the example [here](https://github.com/kyb3rkryzealt/test/commit/22a81ae77c00d4125bc04bc950a40db9f403aaa8).
 
 ## GitHub Desktops
 Or if you use GitHub and GitHub desktop:

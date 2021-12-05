@@ -2,7 +2,7 @@
 title: "About me"
 layout: "about"
 ---
-Hello, I am Kyb3r a simple Geek :glasses:. Currently I study programming, pentesting and systems administration, in my spare time I take [shit pics](https://instagram.com/kyb3rvizsla) :poop:, I customize my system or I'm just playing videogames :video_game:.
+Hello, I am Kyb3r a simple Geek :glasses:. Currently I study programming, pentesting and systems administration, in my spare time I take [shit pics](https://instagram.com/kyb3rkryze) :poop:, I customize my system or I'm just playing videogames :video_game:.
 
 ## My name
 
@@ -11,10 +11,8 @@ Hello, I am Kyb3r a simple Geek :glasses:. Currently I study programming, pentes
 
 ![Kyber Cristal](/images/about/kyber.jpg)
 
-### What is Vizsla?
-Vizsla comes from the [clan](https://starwars.fandom.com/wiki/Clan_Vizsla) that bears the same surname as [Tarre Vizsla](https://starwars.fandom.com/wiki/Tarre_Vizsla), the first Jedi Mandalorian knight, creator of the only black lightsaber with a katana type so far.
-
-![Tarre Vizsla](/images/about/tarre_vizsla.jpg)
+### What is Kryze?
+Clan Kryze was a [Mandalorian clan](https://starwars.fandom.com/wiki/Mandalorian_clan) that was a part of House Kryze. During the Imperial Era, it was a group of Mandalorian warriors led by [Bo-Katan Kryze](https://starwars.fandom.com/wiki/Bo-Katan_Kryze).
 
 ## Contribute
 You can support me in my projects (and my coffees :coffee:) in the [donation section](/donate) 💙.
@@ -22,12 +20,12 @@ You can support me in my projects (and my coffees :coffee:) in the [donation sec
 ## Contact me
 
 ### Keybase
-[Keybase](https://keybase.io) is for me the best way in which you can contact me, the encryption that the PGP key technology has is simply too secure, my keybase profile is [kyb3rvizsla](https://keybase.io/kyb3rvizsla) you can send me a private message or make your own message with PGP by clicking [here](https://keybase.io/encrypt#kyb3rvizsla).
+[Keybase](https://keybase.io) is for me the best way in which you can contact me, the encryption that the PGP key technology has is simply too secure, my keybase profile is [kyb3rkryze](https://keybase.io/kyb3rkryze) you can send me a private message or make your own message with PGP by clicking [here](https://keybase.io/encrypt#kyb3rkryze).
 
 ![Keybase Maessenge](/images/about/keybase_message.png)
 
 ### PGP
-First install a pgp client, you can use [gpg](https://gnupg.org).Then create or [download](https://keybase.io/kyb3rvizsla/pgp_keys.asc) a copy of my public key.
+First install a pgp client, you can use [gpg](https://gnupg.org).Then create or [download](https://keybase.io/kyb3rkryze/pgp_keys.asc) a copy of my public key.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -75,26 +73,26 @@ SQRIrOQA7KSG5W5IVt6uX6DKHt3SUv6JLSMAXqUvDpg2chM4Te8yurU=
 
 Then you must import the key with the command:
 ```bash
-kyb3r@vizsla:~$ wget https://keybase.io/kyb3rvizsla/pgp_keys.asc
-kyb3r@vizsla:~$ gpg --import pgp_keys.asc
+kyb3r@kryze:~$ wget https://keybase.io/kyb3rkryze/pgp_keys.asc
+kyb3r@kryze:~$ gpg --import pgp_keys.asc
 ```
 
 Then create a plain text file with the message. And when you have [generated](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/generating-a-new-gpg-key) your key, I can encrypt the message with:
 ```bash
-kyb3r@vizsla:~$ gpg --encrypt --sign --armor -r your_email@kyb3rvizsla.com file.txt
+kyb3r@kryze:~$ gpg --encrypt --sign --armor -r your_email@kyb3rkryze.com file.txt
 ```
 ![Messenge PGP](/images/about/messenge_pgp.png)
 
 Then you should send me the message with the ending **.asc**.
 
 ### ProtonMail
-You can contact me directly to my mail in Protonmail with the address kyb3rvizsla@protonmail.com. Due to the new case of ProtonMail [delivering data as IP](https://pocketnow.com/protonmail-share-activist-ip-address) I recommend that when you use ProtonMail you do it through a VPN or the [TOR network](https://www.torproject.org), but preferably send me an unencrypted email but you encrypt yourself under PGP.
+You can contact me directly to my mail in Protonmail with the address kyb3rkryze@protonmail.com. Due to the new case of ProtonMail [delivering data as IP](https://pocketnow.com/protonmail-share-activist-ip-address) I recommend that when you use ProtonMail you do it through a VPN or the [TOR network](https://www.torproject.org), but preferably send me an unencrypted email but you encrypt yourself under PGP.
 
 ### Email
-If you are an institution or a company, you must contact me with the email contact@kyb3rvizsla.com, if you are a person or a very small group, do it to my personal email me@kyb3rvizsla.com (I do not accept spam, you will be automatically blocked nor will I accept non-important things in that case send me spam@kyb3rvizsla.com)
+If you are an institution or a company, you must contact me with the email contact@kyb3rkryze.com, if you are a person or a very small group, do it to my personal email me@kyb3rkryze.com (I do not accept spam, you will be automatically blocked nor will I accept non-important things in that case send me spam@kyb3rkryze.com)
 
 ### Telegram
-You can use the secret chat option in Telegram and contact me by that means, my Telegram is [@kyb3rvizsla](https://t.me/kyb3rvizsla).
+You can use the secret chat option in Telegram and contact me by that means, my Telegram is [@kyb3rkryze](https://t.me/kyb3rkryze).
 
 ### Others
 If yours was never privacy and security you can see all my official profiles in the [section](/profiles) that bears the same name.

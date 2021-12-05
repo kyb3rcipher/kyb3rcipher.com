@@ -1,5 +1,5 @@
-baseURL = "https://kyb3rvizsla.com"
-title = "Kyb3r Vizsla"
+baseURL = "https://kyb3rkryze.com"
+title = "Kyb3r Kryze"
 
 # language
 languageCode = "en"
@@ -22,21 +22,21 @@ pageStyle = "wide"
   # DoIt theme version
   version = "0.2.X"
   # site description
-  description = "Kyb3r Vizsla Blog and Website"
+  description = "Kyb3r Kryze Blog and Website"
   # site keywords
-  keywords = ["Kyb3r", "Kyb3r Vizsla", "Hacker", "Geek", "Gael", "Gael Vizsla", "Aesthetic",]
+  keywords = ["Kyb3r", "Kryze" , "Kyb3r Kryze", "Hacker", "Geek", "Gael", "Gael Gonzalez", "Gael Kryze", "Aesthetic",]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # others
   enablePWA = true
   dateFormat = "2006-01-02"
-  gitRepo = "https://github.com/kyb3rvizsla/kyb3rvizsla.com"
+  gitRepo = "https://github.com/kyb3rkryze/kyb3rkryze.com"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
 [params.app]
   # optional site title override for the app when added to an iOS home screen or Android launcher
-  title = "Kyb3r Vizsla"
+  title = "Kyb3r Kryze"
   # whether to omit favicon resource links
   noFavicon = false
   # modern SVG favicon to use in place of older style .png and .ico files
@@ -56,7 +56,7 @@ pageStyle = "wide"
     [params.home.profile]
       # Gravatar Profile Photo Email
       gravatarEmail = "me@kyb3rvizsla.com"
-      title = "Kyb3r Vizsla"
+      title = "Kyb3r Kryze"
       subtitle = "💻 Programmer/SysAdmin/Hacker? • 📣 he/him"
       typeit = true
       social = true
@@ -69,15 +69,15 @@ pageStyle = "wide"
       defaultHiddenFromHomePage = false
 
 [params.social]
-  GitHub = "kyb3rvizsla"
+  GitHub = "kyb3rkryze"
   Twitter = "/profiles/twitter"
   Instagram = "/profiles/instagram"
-  Linkedin = "kyb3rvizsla"
-  Keybase = "kyb3rvizsla"
-  Telegram = "kyb3rvizsla"
-  Snapchat = "gaelvizsla"
-  Ko-fi = "kyb3rvizsla"
-  Email = "contact@kyb3rvizsla.com"
+  Linkedin = "kyb3rkryze"
+  Keybase = "kyb3rkryze"
+  Telegram = "kyb3rkryze"
+  Snapchat = "gaelglezz"
+  Ko-fi = "kyb3rkryze"
+  Email = "contact@kyb3rkryze.com"
   RSS = true
 
 # Navbar config
