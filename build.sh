@@ -19,8 +19,10 @@ cd ..
 cd notes
 # Copy posts folder
 mv tech/* .
+mv personal/* .
 # Remove folders
 rm -rf tech
+rm -rf personal
 
 # Back to home
 cd ../..
