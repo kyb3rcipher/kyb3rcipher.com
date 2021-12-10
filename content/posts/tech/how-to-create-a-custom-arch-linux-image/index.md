@@ -856,7 +856,7 @@ Number of gids 16
 [mkarchiso] INFO: Done!
 1.1G	/root/customarch/out/custom_kyb3r_archlinux-2021.07.21-x86_64.iso
 ```
-Full log [here](https://github.com/kyb3rtarrealt/customarch/archiso.log)
+Full log [here](https://github.com/kyb3rcipheralt/customarch/archiso.log)
 
 ## Testing Image
 Now we will test the new image generated in the out folder.

@@ -1,5 +1,5 @@
-baseURL = "https://kyb3rtarre.com"
-title = "Kyb3r Tarre"
+baseURL = "https://kyb3rcipher.com"
+title = "Kyb3r Cipher"
 
 # language
 languageCode = "en"
@@ -22,21 +22,21 @@ pageStyle = "wide"
   # DoIt theme version
   version = "0.2.X"
   # site description
-  description = "Kyb3r Tarre Blog and Website"
+  description = "Kyb3r Cipher Blog and Website"
   # site keywords
-  keywords = ["Kyb3r", "Tarre" , "Kyb3r Tarre", "Hacker", "Geek", "Gael", "Gael Gonzalez", "Gael Tarre", "Aesthetic",]
+  keywords = ["Kyb3r", "Cipher" , "Kyb3r Cipher", "Hacker", "Geek", "Gael", "Gael Gonzalez", "Gael Cipher", "Aesthetic",]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # others
   enablePWA = true
   dateFormat = "2006-01-02"
-  gitRepo = "https://github.com/kyb3rtarre/kyb3rtarre.com"
+  gitRepo = "https://github.com/kyb3rcipher/kyb3rcipher.com"
   # website images for Open Graph and Twitter Cards
   images = ["/logo.png"]
 
 [params.app]
   # optional site title override for the app when added to an iOS home screen or Android launcher
-  title = "Kyb3r Tarre"
+  title = "Kyb3r Cipher"
   # whether to omit favicon resource links
   noFavicon = false
   # modern SVG favicon to use in place of older style .png and .ico files
@@ -56,7 +56,7 @@ pageStyle = "wide"
     [params.home.profile]
       # Gravatar Profile Photo Email
       gravatarEmail = "me@kyb3rvizsla.com"
-      title = "Kyb3r Tarre"
+      title = "Kyb3r Cipher"
       subtitle = "💻 Programmer/SysAdmin/Hacker? • 📣 he/him"
       typeit = true
       social = true
@@ -69,15 +69,15 @@ pageStyle = "wide"
       defaultHiddenFromHomePage = false
 
 [params.social]
-  GitHub = "kyb3rtarre"
+  GitHub = "kyb3rcipher"
   Twitter = "/profiles/twitter"
   Instagram = "/profiles/instagram"
-  Linkedin = "kyb3rtarre"
-  Keybase = "kyb3rtarre"
-  Telegram = "kyb3rtarre"
+  Linkedin = "kyb3rcipher"
+  Keybase = "kyb3rcipher"
+  Telegram = "kyb3rcipher"
   Snapchat = "gaelglezz"
-  Ko-fi = "kyb3rtarre"
-  Email = "contact@kyb3rtarre.com"
+  Ko-fi = "kyb3rcipher"
+  Email = "contact@kyb3rcipher.com"
   RSS = true
 
 # Navbar config

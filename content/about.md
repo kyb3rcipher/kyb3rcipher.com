@@ -2,7 +2,7 @@
 title: "About me"
 layout: "about"
 ---
-Hello, I am Kyb3r a simple Geek :glasses:. Currently I study programming, pentesting and systems administration, in my spare time I take [shit pics](https://instagram.com/kyb3rtarre) :poop:, I customize my system or I'm just playing videogames :video_game:.
+Hello, I am Kyb3r a simple Geek :glasses:. Currently I study programming, pentesting and systems administration, in my spare time I take [shit pics](https://instagram.com/kyb3rcipher) :poop:, I customize my system or I'm just playing videogames :video_game:.
 
 ## My name
 
@@ -11,8 +11,8 @@ Hello, I am Kyb3r a simple Geek :glasses:. Currently I study programming, pentes
 
 ![Kyber Cristal](/images/about/kyber.jpg)
 
-### What is Tarre?
-Tarre (pronounced in English), comes from Tarre Vizsla the first Mandalorian Jedi and creator of the only dark saber..
+### What is Cipher?
+Your favorite two-dimensional yellow dorito.
 
 ## Contribute
 You can support me in my projects (and my coffees :coffee:) in the [donation section](/donate) 💙.
@@ -20,12 +20,12 @@ You can support me in my projects (and my coffees :coffee:) in the [donation sec
 ## Contact me
 
 ### Keybase
-[Keybase](https://keybase.io) is for me the best way in which you can contact me, the encryption that the PGP key technology has is simply too secure, my keybase profile is [kyb3rtarre](https://keybase.io/kyb3rtarre) you can send me a private message or make your own message with PGP by clicking [here](https://keybase.io/encrypt#kyb3rtarre).
+[Keybase](https://keybase.io) is for me the best way in which you can contact me, the encryption that the PGP key technology has is simply too secure, my keybase profile is [kyb3rcipher](https://keybase.io/kyb3rcipher) you can send me a private message or make your own message with PGP by clicking [here](https://keybase.io/encrypt#kyb3rcipher).
 
 ![Keybase Maessenge](/images/about/keybase_message.png)
 
 ### PGP
-First install a pgp client, you can use [gpg](https://gnupg.org).Then create or [download](https://keybase.io/kyb3rtarre/pgp_keys.asc) a copy of my public key.
+First install a pgp client, you can use [gpg](https://gnupg.org).Then create or [download](https://keybase.io/kyb3rcipher/pgp_keys.asc) a copy of my public key.
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -84,26 +84,26 @@ fGI3WoJUXwyd9+g17N1NokhGFIxY6vPGuH1i6Wl1jhqDWKDFb4DnFL0+01l7AueE
 
 Then you must import the key with the command:
 ```bash
-kyb3r@tarre:~$ wget https://keybase.io/kyb3rtarre/pgp_keys.asc
-kyb3r@tarre:~$ gpg --import pgp_keys.asc
+kyb3r@cipher:~$ wget https://keybase.io/kyb3rcipher/pgp_keys.asc
+kyb3r@cipher:~$ gpg --import pgp_keys.asc
 ```
 
 Then create a plain text file with the message. And when you have [generated](https://docs.github.com/en/github/authenticating-to-github/managing-commit-signature-verification/generating-a-new-gpg-key) your key, I can encrypt the message with:
 ```bash
-kyb3r@tarre:~$ gpg --encrypt --sign --armor -r your_email@kyb3rtarre.com file.txt
+kyb3r@cipher:~$ gpg --encrypt --sign --armor -r your_email@kyb3rcipher.com file.txt
 ```
 ![Messenge PGP](/images/about/messenge_pgp.png)
 
 Then you should send me the message with the ending **.asc**.
 
 ### ProtonMail
-You can contact me directly to my mail in Protonmail with the address kyb3rtarre@protonmail.com. Due to the new case of ProtonMail [delivering data as IP](https://pocketnow.com/protonmail-share-activist-ip-address) I recommend that when you use ProtonMail you do it through a VPN or the [TOR network](https://www.torproject.org), but preferably send me an unencrypted email but you encrypt yourself under PGP.
+You can contact me directly to my mail in Protonmail with the address kyb3rcipher@protonmail.com. Due to the new case of ProtonMail [delivering data as IP](https://pocketnow.com/protonmail-share-activist-ip-address) I recommend that when you use ProtonMail you do it through a VPN or the [TOR network](https://www.torproject.org), but preferably send me an unencrypted email but you encrypt yourself under PGP.
 
 ### Email
-If you are an institution or a company, you must contact me with the email contact@kyb3rtarre.com, if you are a person or a very small group, do it to my personal email me@kyb3rtarre.com (I do not accept spam, you will be automatically blocked nor will I accept non-important things in that case send me spam@kyb3rtarre.com)
+If you are an institution or a company, you must contact me with the email contact@kyb3rcipher.com, if you are a person or a very small group, do it to my personal email me@kyb3rcipher.com (I do not accept spam, you will be automatically blocked nor will I accept non-important things in that case send me spam@kyb3rcipher.com)
 
 ### Telegram
-You can use the secret chat option in Telegram and contact me by that means, my Telegram is [@kyb3rtarre](https://t.me/kyb3rtarre).
+You can use the secret chat option in Telegram and contact me by that means, my Telegram is [@kyb3rcipher](https://t.me/kyb3rcipher).
 
 ### Others
 If yours was never privacy and security you can see all my official profiles in the [section](/profiles) that bears the same name.

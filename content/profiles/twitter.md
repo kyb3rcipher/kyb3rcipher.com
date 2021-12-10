@@ -2,7 +2,7 @@
 title: "Twitter"
 ---
 
-## [:(fab fa-twitter-square): - Technology Twitter :(fas fa-user-cog fa-xs):](https://twitter.com/kyb3rtarre)
+## [:(fab fa-twitter-square): - Technology Twitter :(fas fa-user-cog fa-xs):](https://twitter.com/kyb3rcipher)
 If you love technology, hacking or are a Geek follow me on my technology account.
 
 ## [:(fab fa-twitter): - Personal Twitter  :(fas fa-user-alt fa-xs):](https://twitter.com/kyb3rkryz)
