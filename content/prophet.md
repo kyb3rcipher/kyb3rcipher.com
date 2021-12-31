@@ -5,5 +5,7 @@ title: "Prophet"
 
 10/19/21 Today you told me that you loved me and I can't stop thinking about it.
 10/21/21 I love you and i need to hug you
-{{< tweet 1447844483207417856 >}}
-{{< tweet 1448367807251550208 >}}
+<!--
+ tweet 1447844483207417856 
+ tweet 1448367807251550208 
+-->

@@ -90,7 +90,7 @@ This point is very varied, on the one hand Parrot has Telegram groups in many la
 None, each one has its advantages and disadvantages, if you are looking for one more distro for personal use and something different you can try Parrot or if you are looking for something that you can install on your Raspberry use Kali, in the end the tools do not make the hacker you could use any operating system only with some is simpler. I personally currently (2021) use Kali but a few months ago I used Parrot for years, they are both excellent distros and use the one you like the most. And remember don't be toxic if someone uses Kali or Parrot
 
 I would like to conclude this post with a Tweet made by [Daniel Ruiz](https://twitter.com/dani_ruiz24) who has been a Kali developer since 2019:
-
-{{< tweet 1411030384985395201 >}}
-
+<!--
+ tweet 1411030384985395201 
+-->
 So are you more to use Loro or the Dragon?

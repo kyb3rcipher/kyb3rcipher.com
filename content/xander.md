@@ -6,9 +6,9 @@ I think everything has happened very quickly, I stop to not talk to you but I on
 ![Line Break]()
 
 10/24/21 - So today is your birthday, I am very happy to see that you are already 16 I remember when you were 14 I promise to always be with you, today I saw pictures of you and well I don't know if she is your girlfriend but they look good, although I promise to make you the happiest person. A year ago I crossed a street and since that day I can't stop thinking about you.
-
-{{< tweet 1452250497440694272 >}}
-
+<!--
+ tweet 1452250497440694272 
+-->
 {{< music "https://music.163.com/#/song?id=1846814797" >}}
 {{< music "https://music.163.com/#/song?id=1416243053" >}}
 {{< music "https://music.163.com/#/song?id=1497510960" >}}
