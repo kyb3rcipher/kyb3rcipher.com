@@ -55,7 +55,7 @@ pageStyle = "wide"
     # Home page profile
     [params.home.profile]
       # Gravatar Profile Photo Email
-      gravatarEmail = "me@kyb3rvizsla.com"
+      gravatarEmail = "me@kyb3rcipher.com"
       title = "Kyb3r Cipher"
       subtitle = "💻 Programmer/SysAdmin/Hacker? • 📣 he/him"
       typeit = true
