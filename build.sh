@@ -26,6 +26,3 @@ rm -rf personal
 
 # Back to home
 cd ../..
-
-# Build Page
-hugo
