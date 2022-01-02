@@ -44,33 +44,24 @@ telegram:
   Icon:
     Class: fab fa-telegram-plane fa-fw
 
-# 007: Snapchat
-snapchat:
+# 007: Personal
+personal:
   Weight: 7
-  Prefix: https://www.snapchat.com/add/
-  Title: Snapchat
+  Title: Personal accounts
   Icon:
-    Class: fab fa-snapchat fa-fw
+    Class: fas fa-user-circle fa-fw
 
 # 008: Email
-ko-fi:
-  Weight: 8
-  Prefix: https://ko-fi.com/
-  Title: Ko-Fi
-  Icon:
-    Simpleicons: kofi
-
-# 009: Email
 email:
-  Weight: 9
+  Weight: 8
   Template: mailto:%v
   Title: Email
   Icon:
     Class: far fa-envelope fa-fw
 
-# 010: RSS
+# 009: RSS
 rss:
-  Weight: 10
+  Weight: 9
   Url: /index.xml
   Title: RSS
   Newtab: true
