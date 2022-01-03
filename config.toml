@@ -69,15 +69,15 @@ pageStyle = "wide"
       defaultHiddenFromHomePage = false
 
 [params.social]
-  GitHub = "kyb3rcipher"
-  Twitter = "/profiles/twitter"
+  GitHub    = "kyb3rcipher"
+  Twitter   = "/profiles/twitter"
   Instagram = "/profiles/instagram"
-  Telegram = "kyb3rcipher"
-  Linkedin = "kyb3rcipher"
-  PGP = "https://keybase.io/kyb3rcipher/pgp_keys.asc"
-  Personal = "https://itsgaelgt.ga"
-  Email = "me@kyb3rcipher.com"
-  RSS = true
+  Telegram  = "kyb3rcipher"
+  Linkedin  = "kyb3rcipher"
+  PGP       = "https://keybase.io/kyb3rcipher/pgp_keys.asc"
+  Personal  = "https://itsgaelgt.ga"
+  Email     = "me@kyb3rcipher.com"
+  RSS       = true
 
 # Navbar config
 [menu]
