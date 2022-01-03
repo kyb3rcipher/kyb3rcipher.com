@@ -24,7 +24,7 @@ pageStyle = "wide"
   # site description
   description = "Kyb3r Cipher Blog and Website"
   # site keywords
-  keywords = ["Kyb3r", "Cipher" , "Kyb3r Cipher", "Hacker", "Geek", "Gael", "Gael Gonzalez", "Gael Cipher", "Aesthetic",]
+  keywords = ["Kyb3r Cipher", "Cipher Kyb3r", "kyb3rcipher", "@kyb3rcipher", "Kyb3r Cipher Blog, "Cipher",]
   # site default theme ("light", "dark", "auto")
   defaultTheme = "auto"
   # others
