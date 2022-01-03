@@ -9,6 +9,7 @@ github:
 # 002: Twitter
 twitter:
   Weight: 2
+  Prefix: https://twitter.com/
   Title: Twitter
   Icon:
     Class: fab fa-twitter fa-fw
@@ -16,9 +17,19 @@ twitter:
 # 003: Instagram
 instagram:
   Weight: 3
-  Title: My Instagram accounts
+  Prefix: https://instagram.com/
+  Title: Instagram
   Icon:
     Class: fab fa-instagram fa-fw
+
+# 004: Telegram
+telegram:
+  Weight: 4
+  Prefix: https://t.me/
+  Title: Telegram
+  Icon:
+    Class: fab fa-telegram-plane fa-fw
+
 
 # 004: LinkedIn
 linkedin:
@@ -28,21 +39,12 @@ linkedin:
   Icon:
     Class: fab fa-linkedin fa-fw
 
-# 005: Keybase
-keybase:
+# 005: pgp
+pgp:
   Weight: 5
-  Prefix: https://keybase.io/
-  Title: Keybase
+  Title: PGP Key
   Icon:
-    Class: fab fa-keybase fa-fw
-
-# 006: Telegram
-telegram:
-  Weight: 6
-  Prefix: https://t.me/
-  Title: Telegram
-  Icon:
-    Class: fab fa-telegram-plane fa-fw
+    Simpleicons: gnuprivacyguard
 
 # 007: Personal
 personal:
