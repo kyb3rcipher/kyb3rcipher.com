@@ -70,8 +70,8 @@ pageStyle = "wide"
 
 [params.social]
   GitHub    = "kyb3rcipher"
-  Twitter   = "/profiles/twitter"
-  Instagram = "/profiles/instagram"
+  Twitter   = "kyb3rcipher"
+  Instagram = "kyb3rcipher"
   Telegram  = "kyb3rcipher"
   Linkedin  = "kyb3rcipher"
   PGP       = "https://keybase.io/kyb3rcipher/pgp_keys.asc"
