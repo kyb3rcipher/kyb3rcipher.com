@@ -25,7 +25,7 @@ h1, h2, p{
 .container2{
     width: 78%;
     height: 40px;
-    margin-left: 22%;
+    margin-left: 13%;
     margin-top: 2%;
     display: flex;
     padding: 5px;
@@ -44,7 +44,7 @@ h1, h2, p{
 
 .container3{
     width: 78%;
-    margin-left: 16%;
+    margin-left: 20%;
     height: 40px;
     margin-top: 2%;
     display: flex;
@@ -64,7 +64,7 @@ h1, h2, p{
 
 .container4{
     width: 78%;
-    margin-left: 15%;
+    margin-left: 20%;
     height: 40px;
     margin-top: 2%;
     display: flex;
