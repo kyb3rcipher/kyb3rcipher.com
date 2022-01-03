@@ -106,20 +106,12 @@ pageStyle = "wide"
     weight = 3
 
   [[ menu.main ]]
-    identifier = "writeups"
-    name = "Writeups"
-    pre = '<i class="fas fa-spider"></i>'
-    title = "CTF writeups."
-    url = "/categories/writeup"
-    weight = 4
-
-  [[ menu.main ]]
     identifier = "about"
     name = "About"
     pre = '<i class="fas fa-info"></i>'
     title = "About and contact me."
     url = "/about"
-    weight = 5
+    weight = 4 
 
 # Header config
 [params.header]
