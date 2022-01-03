@@ -30,40 +30,39 @@ telegram:
   Icon:
     Class: fab fa-telegram-plane fa-fw
 
-
-# 004: LinkedIn
+# 006: LinkedIn
 linkedin:
-  Weight: 4
+  Weight: 6
   Prefix: https://linkedin.com/in/
   Title: LinkedIn
   Icon:
     Class: fab fa-linkedin fa-fw
 
-# 005: pgp
+# 007: pgp
 pgp:
-  Weight: 5
+  Weight: 7
   Title: PGP Key
   Icon:
     Simpleicons: gnuprivacyguard
 
-# 007: Personal
+# 008: Personal
 personal:
-  Weight: 7
+  Weight: 8
   Title: Personal accounts
   Icon:
     Class: fas fa-user-circle fa-fw
 
-# 008: Email
+# 009: Email
 email:
-  Weight: 8
+  Weight: 9
   Template: mailto:%v
   Title: Email
   Icon:
     Class: far fa-envelope fa-fw
 
-# 009: RSS
+# 010: RSS
 rss:
-  Weight: 9
+  Weight: 10
   Url: /index.xml
   Title: RSS
   Newtab: true
