@@ -40,6 +40,5 @@ Yes, my answer to this is that privacy is a fundamental right outside and inside
 ## Tweet
 
 I would like to end with the tweet that inspired me to write this post and the case of [ProtonMail](https://twitter.com/tenacioustek/status/1434604102676271106) which once a back door to our data will never be finished.
-<!--
- tweet 1435324038004494344 
--->
+
+{{< tweet user="ProtonMail" id="1435324038004494344" >}}
