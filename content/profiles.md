@@ -28,7 +28,7 @@ In all my profiles I use the usernames **@kyb3rcipher** or **@itsgaelgt**.
 	<a href="https://linkedin.com/in/kyb3rcipher" rel="noopener noreffer" target="_blank"><div class="box">
         <i class="si si-linkedin fa-2x"></i> <p>Linkedin</p>
     </div></a>
-	<a href="https://snapchat.com/add/gaelglezz" rel="noopener noreffer" target="_blank"><div class="box">
+	<a href="https://snapchat.com/add/itsgaelgt" rel="noopener noreffer" target="_blank"><div class="box">
         <i class="si si-snapchat fa-2x"></i> <p>Snapchat</p>
     </div></a>
 </div>

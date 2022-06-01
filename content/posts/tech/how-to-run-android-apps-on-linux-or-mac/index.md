@@ -11,7 +11,7 @@ resources:
   src: "featured-image.png"
 tags: [android, linux, arm]
 categories: [android, linux]
-draft: true
+draft: false
 ---
 ## Introduction
 
