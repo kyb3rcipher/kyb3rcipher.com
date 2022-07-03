@@ -1,0 +1,70 @@
+# 001: Github
+github:
+  Weight: 1
+  Prefix: https://github.com/
+  Title: GitHub
+  Icon:
+    Class: fab fa-github fa-fw
+
+# 002: Twitter
+twitter:
+  Weight: 2
+  Prefix: https://twitter.com/
+  Title: Twitter
+  Icon:
+    Class: fab fa-twitter fa-fw
+
+# 003: Instagram
+instagram:
+  Weight: 3
+  Prefix: https://instagram.com/
+  Title: Instagram
+  Icon:
+    Class: fab fa-instagram fa-fw
+
+# 004: Telegram
+telegram:
+  Weight: 4
+  Prefix: https://t.me/
+  Title: Telegram
+  Icon:
+    Class: fab fa-telegram-plane fa-fw
+
+# 006: LinkedIn
+linkedin:
+  Weight: 6
+  Prefix: https://linkedin.com/in/
+  Title: LinkedIn
+  Icon:
+    Class: fab fa-linkedin fa-fw
+
+# 007: pgp
+pgp:
+  Weight: 7
+  Title: PGP Key
+  Icon:
+    Simpleicons: gnuprivacyguard
+
+# 008: Personal
+personal:
+  Weight: 8
+  Title: Personal accounts
+  Icon:
+    Class: fas fa-user-circle fa-fw
+
+# 009: Email
+email:
+  Weight: 9
+  Template: mailto:%v
+  Title: Email
+  Icon:
+    Class: far fa-envelope fa-fw
+
+# 010: RSS
+rss:
+  Weight: 10
+  Url: /index.xml
+  Title: RSS
+  Newtab: true
+  Icon:
+    Class: fas fa-rss fa-fw
