@@ -1,4 +1,0 @@
----
-title: "Proyects"
-layout: "proyects"
----
