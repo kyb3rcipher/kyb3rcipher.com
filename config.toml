@@ -16,7 +16,7 @@ enableRobotsTXT = true
 # font awesome enable
 fontawesome = true
 # pages styles ("normal", "wide")
-pageStyle = "wide"
+pageStyle = "normal"
 
 [params]
   # DoIt theme version
@@ -57,10 +57,9 @@ pageStyle = "wide"
       # Gravatar Profile Photo Email
       gravatarEmail = "me@kyb3rcipher.com"
       title = "Kyb3r Cipher"
-      subtitle = "💻 Programmer/SysAdmin/Hacker? • 📣 he/him"
+      subtitle = "💻 Geek/Programmer/SysAdmin/Hacker? • 📣 he/him"
       typeit = true
       social = true
-      disclaimer = "Don't forget to check:"
     # Home page posts
     [params.home.posts]
       enable = true
@@ -77,7 +76,7 @@ pageStyle = "wide"
   PGP       = "/kyb3rcipher.asc"
   Personal  = "https://itsgaelgt.ga"
   Email     = "me@kyb3rcipher.com"
-  RSS       = true
+  RSS       = false
 
 # Navbar config
 [menu]
@@ -97,10 +96,10 @@ pageStyle = "wide"
     url = "/profiles"
     weight = 2
 
-    [[ menu.main ]]
+  [[ menu.main ]]
     identifier = "proyects"
     name = "Proyects"
-    pre = '<i class="fas fa-puzzle-piece"></i>'
+    pre = '<i class="fas fa-code"></i>'
     title = "My proyects."
     url = "/proyects"
     weight = 3
@@ -120,8 +119,14 @@ pageStyle = "wide"
   # mobile header mode ("fixed", "normal", "auto")
   mobileMode = "auto"
   [params.header.title]
-    name = "Kyb3r"
+    name = "Kyb3r :]"
     typeit = "true"
+  # typing
+  [params.typeit]
+    speed = 100
+    cursorSpeed = 1000
+    cursorChar = "|"
+    duration = -1
 
 # Footer config
 [params.footer]
@@ -134,7 +139,7 @@ pageStyle = "wide"
   author = true
   # site creation time
   since = 2021
-  license = '<a rel="license external nofollow noopener noreffer" href="/license">License & Copyright</a>'
+  license = '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">License & Copyright</a>'
 
 # section (all posts) page config
 [params.section]
@@ -181,7 +186,7 @@ pageStyle = "wide"
   enable = true
   # Google Analytics
   [params.analytics.google]
-    id = "G-WGH7R604WZ"
+    id = "G-Z9NMTNQE53"
     # whether to anonymize IP
     anonymizeIP = true
 

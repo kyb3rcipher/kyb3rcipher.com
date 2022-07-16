@@ -1,12 +1,4 @@
-*{
-	box-sizing: border-box;
-}
-
-body{
-	
-}
-
-.wrapper .header{
+.proyects-wrapper .proyects-header{
 	width: 100%;
 	height: 50px;
 	text-align: center;
@@ -19,7 +11,7 @@ body{
 	font-weight: 900;
 }
 
-.cards_wrap{
+.proyects-card_wrap{
 	padding: 20px;
 	width: 100%;
 	display: flex;
@@ -27,12 +19,12 @@ body{
 	flex-wrap: wrap;
 }
 
-.cards_wrap .card_item{
+.proyects-card_wrap .proyects-card_item{
 	padding: 15px 25px;
 	width: 25%;
 }
 
-.cards_wrap .card_inner{
+.proyects-card_wrap .proyects-card_inner{
 	background: #eeeff4;
 	border-radius: 5px;
 	padding: 35px 20px;
@@ -42,13 +34,13 @@ body{
 	width: 100%;
 }
 
-.cards_wrap .card_item img{
+.proyects-card_wrap .proyects-card_item img{
 	width: 80px;
 	height: 80px;
 	margin-bottom: 5px;
 }
 
-.cards_wrap .card_item .name{
+.proyects-card_wrap .proyects-card_item .proyects-name{
 	color: #e36686;
 	font-weight: 900;
 	letter-spacing: 2px;
@@ -59,26 +51,26 @@ body{
     text-overflow: ellipsis;
 }
 
-.cards_wrap .card_item .icons{
+.proyects-card_wrap .proyects-card_item .proyects-icons{
 	font-size: 12px;
 	font-weight: 100;
 	margin: 5px 0 10px;
 }
 
-.cards_wrap .card_item .description{
+.proyects-card_wrap .proyects-card_item .proyects-description{
 	font-size: 14px;
 	line-height: 24px;
 	color: #7b8ca0;
 }
 
 @media screen and (max-width: 1024px){
-	.cards_wrap .card_item{
+	.proyects-card_wrap .proyects-card_item{
 		width: 33%;
 	}
 }
 
 @media screen and (max-width: 768px){
-	.cards_wrap .card_item{
+	.proyects-card_wrap .proyects-card_item{
 		width: 50%;
 	}
 	.wrapper .header{
@@ -88,7 +80,7 @@ body{
 }
 
 @media screen and (max-width: 568px){
-	.cards_wrap .card_item{
+	.proyects-card_wrap .proyects-card_item{
 		width: 100%;
 	}
 	.wrapper .header{

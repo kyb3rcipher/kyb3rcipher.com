@@ -1,96 +1,72 @@
-h1, h2, p{
-    text-align: center;
-}
-
-.container1{
+/* change margin-left for move */
+.profiles-container1{
     width: 78%;
     height: 40px;
-    margin-left: 13%;
+    margin-left: 19%;
     margin-top: 2%;
     display: flex;
     padding: 5px;
 }
-.container1 .box{
+.profiles-container1 .box{
     width: 140px;
     height: 30px;
     margin: auto;
     display: flex;
     padding: 5px;
 }
-.container1 .box p{
+.profiles-container1 .box p{
     margin-left: 10%;
     margin-top: 2px;
 }
 
-.container2{
+.profiles-container2{
     width: 78%;
+    margin-left: 19%;
     height: 40px;
-    margin-left: 13%;
     margin-top: 2%;
     display: flex;
     padding: 5px;
 }
-.container2 .box{
+.profiles-container2 .box{
     width: 140px;
     height: 30px;
     margin: auto;
     display: flex;
     padding: 5px;
 }
-.container2 .box p{
+.profiles-container2 .box p{
     margin-left: 10%;
     margin-top: 2px;
 }
 
-.container3{
-    width: 78%;
-    margin-left: 20%;
+.profiles-container3{
+    width: 60%;
+    margin-left: 40%;
     height: 40px;
     margin-top: 2%;
     display: flex;
     padding: 5px;
 }
-.container3 .box{
-    width: 140px;
+.profiles-container3 .box{
+    width: 110px;
     height: 30px;
     margin: auto;
     display: flex;
     padding: 5px;
 }
-.container3 .box p{
-    margin-left: 10%;
-    margin-top: 2px;
-}
-
-.container4{
-    width: 78%;
-    margin-left: 20%;
-    height: 40px;
-    margin-top: 2%;
-    display: flex;
-    padding: 5px;
-}
-.container4 .box{
-    width: 140px;
-    height: 30px;
-    margin: auto;
-    display: flex;
-    padding: 5px;
-}
-.container4 .box p{
+.profiles-container3 .box p{
     margin-left: 10%;
     margin-top: 2px;
 }
 
 @media screen and (max-width: 1440px) {
-    .container1 {display: contents;}
-    .container2 {display: contents;}
-    .container3 {display: contents;}
-    .container4 {display: contents;}
+    .profiles-container1 {display: contents;}
+    .profiles-container2 {display: contents;}
+    .profiles-container3 {display: contents;}
 }
 
 @media screen and (min-width: 2560px) {
-    .container1{
+    .profiles-container1{
         width: 78%;
         height: 40px;
         margin-left: 20%;
@@ -98,7 +74,7 @@ h1, h2, p{
         display: flex;
         padding: 5px;
     }
-    .container2{
+    .profiles-container2{
         width: 78%;
         height: 40px;
         margin-left: 30%;
@@ -106,18 +82,10 @@ h1, h2, p{
         display: flex;
         padding: 5px;
     }
-    .container3{
-        width: 78%;
+    .profiles-container3{
+        width: 60%;
         height: 40px;
-        margin-left:20%;
-        margin-top: 2%;
-        display: flex;
-        padding: 5px;
-    }
-    .container4{
-        width: 78%;
-        height: 40px;
-        margin-left:20%;
+        margin-left: 100%;
         margin-top: 2%;
         display: flex;
         padding: 5px;

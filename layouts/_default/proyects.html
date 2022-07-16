@@ -4,52 +4,8 @@
 <link rel="stylesheet" href="/css/proyects.css" type="text/css">
 
 {{- /* Content */ -}}<br><br><br>
-
-<div class="wrapper">
-	<div class="header">Proyects</div>
-	<div class="cards_wrap">
-
-		<div class="card_item">
-			<div class="card_inner">
-				<img src="/images/proyects/parrot-linux.svg">
-                <img src="/images/proyects/raspberry.svg">
-				<div class="name">Parrot OS RPI</div>
-				<div class="icons">
-                    <a href="https://nest.parrotsec.org/kyb3rcipher/parrot-rpi" rel="noopener noreffer" target="_blank"><i class="fas fa-code-branch fa-2x"></i></a>
-                </div>
-				<div class="description">
-                    Parrot OS for raspberry arm.
-                </div>
-			</div>
-		</div>
-
-        <div class="card_item">
-			<div class="card_inner">
-				<img src="/images/proyects/parrot-linux.svg">
-				<div class="name">Alternate Install</div>
-				<div class="icons">
-					<a href="https://github.com/ParrotSec/alternate-install" rel="noopener noreffer" target="_blank"><i class="fab fa-github fa-2x"></i></a>
-                </div>
-				<div class="description">
-                    An installer for Parrot OS on debian and derivatives.
-                </div>
-			</div>
-		</div>
-
-        <div class="card_item">
-			<div class="card_inner">
-				<img src="/images/proyects/neovim.svg">
-				<div class="name">Naboonvim</div>
-				<div class="icons">
-                    <a href="https://github.com/kyb3rcipher/naboonvim" rel="noopener noreffer" target="_blank"><i class="fab fa-github fa-2x"></i></a>
-                </div>
-				<div class="description">
-                    My neovim basic and util configuration 😃.
-                </div>
-			</div>
-		</div>
-
-	</div>
+{{- $params := .Scratch.Get "params" -}}
+<div class="content" id="content">
+    {{- dict "Content" .Content "Ruby" $params.ruby "Fraction" $params.fraction "Fontawesome" $params.fontawesome | partial "function/content.html" | safeHTML -}}
 </div>
-
 {{- end -}}
