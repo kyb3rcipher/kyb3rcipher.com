@@ -97,11 +97,11 @@ pageStyle = "normal"
     weight = 2
 
   [[ menu.main ]]
-    identifier = "proyects"
-    name = "Proyects"
+    identifier = "projects"
+    name = "Projects"
     pre = '<i class="fas fa-code"></i>'
-    title = "My proyects."
-    url = "/proyects"
+    title = "My projects."
+    url = "/projects"
     weight = 3
 
   [[ menu.main ]]

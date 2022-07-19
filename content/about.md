@@ -2,7 +2,7 @@
 title: "About me"
 layout: "about"
 ---
-Hello, I am Kyb3r a simple Geek :glasses:. Currently I study programming, pentesting and systems administration, in my spare time I take [pics](https://instagram.com/kyb3rcipher) :camera:, I customize my system or I'm just playing videogames :video_game:.
+Hello there	, I am Kyb3r, a simple Geek :glasses:. Currently I study programming, pentesting and systems administration, in my spare time I take [pics](https://instagram.com/kyb3rcipher) :camera:, I customize my system I'm just playing videogames :video_game:.
 
 ## My name
 
