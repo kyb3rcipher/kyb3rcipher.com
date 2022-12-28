@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>custom on kyb3r :]</title>
+    <link>https://kyb3rcipher.com/tags/custom/</link>
+    <description>Recent content in custom on kyb3r :]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 13 Aug 2021 22:39:08 -0500</lastBuildDate><atom:link href="https://kyb3rcipher.com/tags/custom/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How to create a custom Arch Linux image</title>
+      <link>https://kyb3rcipher.com/blog/how-to-create-a-custom-arch-linux-image/</link>
+      <pubDate>Fri, 13 Aug 2021 22:39:08 -0500</pubDate>
+      
+      <guid>https://kyb3rcipher.com/blog/how-to-create-a-custom-arch-linux-image/</guid>
+      <description>But hey, we better start.
+Why create a custom Arch Linux image? It is tedious having to personally configure Arch Linux every time you install it, so you can generate your own image with all your configuration and not have to do this process over and over again.
+Do not create another distribution Please, as I already explained in the post that talks about this, do not create another one based on Arch, create a customazida image for yourself but do not rename the distro or the promotions as a new one only as a customization.</description>
+    </item>
+    
+  </channel>
+</rss>

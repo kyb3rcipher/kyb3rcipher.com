@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>linux on kyb3r :]</title>
+    <link>https://kyb3rcipher.com/tags/linux/</link>
+    <description>Recent content in linux on kyb3r :]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 10 Sep 2021 21:32:02 -0500</lastBuildDate><atom:link href="https://kyb3rcipher.com/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kali Linux or Parrot OS?</title>
+      <link>https://kyb3rcipher.com/blog/kali-or-parrot/</link>
+      <pubDate>Fri, 10 Sep 2021 21:32:02 -0500</pubDate>
+      
+      <guid>https://kyb3rcipher.com/blog/kali-or-parrot/</guid>
+      <description>Kali Linux 🐉 Kali Linux as your page says it may be &amp;ldquo;The Most Advanced Penetration Testing Distribution&amp;rdquo;, Kali is a Linux distribution based on Debian, it has existed since March 2013, successor to BackTrack Linux and developed by the company Offesive Security. Kali is currently the most used Pentesting distribution in the world, but what good is it?
+Kali Advantages One of the main advantages of using Kali Linux is its stability, because it is developed by a company it is much less likely if not impossible that the repositories will have malware and because its developers receive a payment they get to solve more problems quickly and also being supported by a company have a greater infrastructure.</description>
+    </item>
+    
+    <item>
+      <title>Why not create more Linux distributions</title>
+      <link>https://kyb3rcipher.com/blog/why-not-create-more-linux-distributions/</link>
+      <pubDate>Tue, 10 Aug 2021 17:16:42 -0500</pubDate>
+      
+      <guid>https://kyb3rcipher.com/blog/why-not-create-more-linux-distributions/</guid>
+      <description>Debian I want you to think about the number of Debian &amp;ldquo;distributions&amp;quot;that you know, this number is huge and they are distros that are useless and only damage Linux because many things have to be repackaged and makes use more difficult. So why create another Linux &amp;ldquo;distribution&amp;rdquo;?
+For a better desktop environment, you can do it but why better not create the configuration and turn it into a script and that anyone can install it on their Linux</description>
+    </item>
+    
+  </channel>
+</rss>

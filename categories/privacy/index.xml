@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on kyb3r :]</title>
+    <link>https://kyb3rcipher.com/categories/privacy/</link>
+    <description>Recent content in privacy on kyb3r :]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Sep 2021 13:34:21 -0500</lastBuildDate><atom:link href="https://kyb3rcipher.com/categories/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The privacy a right or a stupidity?</title>
+      <link>https://kyb3rcipher.com/blog/the-privacy-a-right-or-a-stupidity/</link>
+      <pubDate>Tue, 07 Sep 2021 13:34:21 -0500</pubDate>
+      
+      <guid>https://kyb3rcipher.com/blog/the-privacy-a-right-or-a-stupidity/</guid>
+      <description>Basic I think we should start at the beginning by defining privacy. The Cambridge dictionary defines it as:
+&amp;ldquo;Someone&amp;rsquo;s right to keep their personal matters and relationships secret&amp;rdquo;
+In computing we can save personal data, when we access a site or upload something to the internet, this data is created many times from locations, photos, relationships with other people or dates of birth. This often helps as the theme of saving cookies that you had in your shopping cart means that you do not have to add everything manually or save your email so that your friends can find you.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>hackthebox on kyb3r :]</title>
+    <link>https://kyb3rcipher.com/tags/hackthebox/</link>
+    <description>Recent content in hackthebox on kyb3r :]</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Sep 2021 16:04:02 -0500</lastBuildDate><atom:link href="https://kyb3rcipher.com/tags/hackthebox/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Archetype - HackTheBox Writeup</title>
+      <link>https://kyb3rcipher.com/blog/archetype-htb-writeup/</link>
+      <pubDate>Tue, 07 Sep 2021 16:04:02 -0500</pubDate>
+      
+      <guid>https://kyb3rcipher.com/blog/archetype-htb-writeup/</guid>
+      <description>Enumeration Scan We&amp;rsquo;ll start with a simple port scan with nmap:
+kyb3r@cipher ~: nmap -sV -sC 10.10.10.27 Starting Nmap 7 ( https://nmap.org ) Nmap scan report for 10.10.10.27 Host is up (0.10s latency). Not shown: 996 closed ports PORT STATE SERVICE VERSION 135/tcp open msrpc Microsoft Windows RPC 139/tcp open netbios-ssn Microsoft Windows netbios-ssn 445/tcp open microsoft-ds Windows Server 2019 Standard 17763 microsoft-ds 1433/tcp open ms-sql-s Microsoft SQL Server 2017 14.</description>
+    </item>
+    
+  </channel>
+</rss>
