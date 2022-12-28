@@ -1,15 +1,8 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
-description: ""
-author: "Kyb3r"
-authorLink: "/about"
-lightgallery: false
+title: "{{ replace .Name "-" " " | title }}"
+description: Click on me to see the content.
 date: {{ .Date }}
-lastmod: {{ .Date }}
-resources:
-- name: "featured-image"
-  src: "featured-image.png"
-tags: []
-categories: []
-draft: false
+tags: [arm]
+categories: [arm]
 ---
+

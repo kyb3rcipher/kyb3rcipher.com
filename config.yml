@@ -1,0 +1,79 @@
+baseURL: https://kyb3rcipher.com
+title: kyb3r :]
+paginate: 5
+theme: charlolamode
+
+
+menu:
+    main:
+        - name: Blog
+          url: blog/
+          weight: 15
+        - name: Projects
+          url: projects
+          weight: 20
+        - name: Contact
+          url: contact/
+          weight: 30
+
+
+params:
+    author: Me
+
+
+    defaultTheme: auto
+    # disableThemeToggle: true
+    ShowShareButtons: true
+    ShowReadingTime: true
+    displayFullLangName: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
+
+    profileMode:
+        enabled: true
+        title: Kyb3r Cipher
+        description: |
+
+          Hi there, I am Kyb3r.
+           I am a software developer and hacker.
+        
+        imageUrl: "/images/profile.jpeg"
+        imageTitle: my image
+    mainSections:
+      - articles
+
+    socialIcons:
+        - name: github
+          url: "https://github.com/kyb3rcipher"
+        - name: twitter
+          url: "https://twitter.com/kyb3rcipher"
+        - name: instagram
+          url: "https://www.instagram.com/kyb3rcipher"
+        - name: telegram
+          url: "https://t.me/kyb3rcipherr"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/kyb3rcipher"
+        - name: pgpkey
+          url: "/kyb3rcipher.gpg"
+        - name: user
+          url: "https://itsgaelgt.ga"
+        - name: email
+          url: "mailto:me@kyb3rcipher.com"
+
+    assets:
+          favicon: "/images/favicon.ico"
+          favicon16x16: "/images/favicon-16x16.png"
+          favicon32x32: "/images/favicon-32x32.png"
+          apple_touch_icon: "/images/apple-touch-icon.png"
+          safari_pinned_tab: "/images/apple-touch-icon.png"
+
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+enableEmoji: true
+pygmentsUseClasses: true
+
+minify:
+    disableXML: true
+
