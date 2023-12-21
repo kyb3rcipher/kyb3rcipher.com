@@ -1,7 +1,6 @@
 ---
 title: "Why not create more Linux distributions"
 description: 'I would like to start this post with the following words: "Para que crear el agua tibia" or in English "Why create warm water? this phrase is from my friend Zeta. Now, why should you not create another Linux "distribution," why would you create something that already exists only with another name and here is the explanation.'
-date: 2021-08-10T17:16:42-05:00
 tags: ["linux"]
 ---
 

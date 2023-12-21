@@ -1,7 +1,6 @@
 ---
 title: "The privacy a right or a stupidity?"
 description: 'A debate that has always had the question of "What do you have to hide?" It has always been present when it comes to privacy on the internet, but how necessary is privacy?'
-date: 2021-09-07T13:34:21-05:00
 tags: [privacy]
 categories: [privacy]
 ---

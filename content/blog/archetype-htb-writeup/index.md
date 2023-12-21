@@ -1,7 +1,6 @@
 ---
 title: "Archetype - HackTheBox Writeup"
 description: "Starting with the writeups, today we will launch the HackTheBox Archetype machine that belongs to the Starting Point group here the writeup"
-date: 2021-09-07T16:04:02-05:00
 tags: [htb, writeup, hackthebox, starting-point, ctf]
 categories: [writeup, hackthebox, ctf]
 ---
