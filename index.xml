@@ -1,90 +1,39 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>kyb3r :]</title>
+    <title>kyb3r</title>
     <link>https://kyb3rcipher.com/</link>
-    <description>Recent content on kyb3r :]</description>
+    <description>Recent content on kyb3r</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 21 Oct 2021 17:07:06 -0500</lastBuildDate><atom:link href="https://kyb3rcipher.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The future of ARM as architecture</title>
-      <link>https://kyb3rcipher.com/blog/the-future-of-arm-as-architecture/</link>
-      <pubDate>Thu, 21 Oct 2021 17:07:06 -0500</pubDate>
-      
-      <guid>https://kyb3rcipher.com/blog/the-future-of-arm-as-architecture/</guid>
-      <description>Is the future? Yeah, this is the future. I could define arm as a complex, advanced and very light architecture this allows it to be used in small devices such as pi or smartphones.
-Apple M1 The new apple m1 is a total innovation, one of the most popular and popular computers using the 100% arm architecture, the process was difficult and some applications did not work at first but once it was adapted it made us all want to have a macbook again for its new chip created by apple.</description>
-    </item>
-    
-    <item>
-      <title>Kali Linux or Parrot OS?</title>
-      <link>https://kyb3rcipher.com/blog/kali-or-parrot/</link>
-      <pubDate>Fri, 10 Sep 2021 21:32:02 -0500</pubDate>
-      
-      <guid>https://kyb3rcipher.com/blog/kali-or-parrot/</guid>
-      <description>Kali Linux 🐉 Kali Linux as your page says it may be &amp;ldquo;The Most Advanced Penetration Testing Distribution&amp;rdquo;, Kali is a Linux distribution based on Debian, it has existed since March 2013, successor to BackTrack Linux and developed by the company Offesive Security. Kali is currently the most used Pentesting distribution in the world, but what good is it?
-Kali Advantages One of the main advantages of using Kali Linux is its stability, because it is developed by a company it is much less likely if not impossible that the repositories will have malware and because its developers receive a payment they get to solve more problems quickly and also being supported by a company have a greater infrastructure.</description>
-    </item>
-    
+    <language>en</language>
+    <atom:link href="https://kyb3rcipher.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Archetype - HackTheBox Writeup</title>
       <link>https://kyb3rcipher.com/blog/archetype-htb-writeup/</link>
-      <pubDate>Tue, 07 Sep 2021 16:04:02 -0500</pubDate>
-      
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://kyb3rcipher.com/blog/archetype-htb-writeup/</guid>
-      <description>Enumeration Scan We&amp;rsquo;ll start with a simple port scan with nmap:
-kyb3r@cipher ~: nmap -sV -sC 10.10.10.27 Starting Nmap 7 ( https://nmap.org ) Nmap scan report for 10.10.10.27 Host is up (0.10s latency). Not shown: 996 closed ports PORT STATE SERVICE VERSION 135/tcp open msrpc Microsoft Windows RPC 139/tcp open netbios-ssn Microsoft Windows netbios-ssn 445/tcp open microsoft-ds Windows Server 2019 Standard 17763 microsoft-ds 1433/tcp open ms-sql-s Microsoft SQL Server 2017 14.</description>
+      <description>Enumeration Scan We&amp;rsquo;ll start with a simple port scan with nmap:&#xA;kyb3r@cipher ~: nmap -sV -sC 10.10.10.27 Starting Nmap 7 ( https://nmap.org ) Nmap scan report for 10.10.10.27 Host is up (0.10s latency). Not shown: 996 closed ports PORT STATE SERVICE VERSION 135/tcp open msrpc Microsoft Windows RPC 139/tcp open netbios-ssn Microsoft Windows netbios-ssn 445/tcp open microsoft-ds Windows Server 2019 Standard 17763 microsoft-ds 1433/tcp open ms-sql-s Microsoft SQL Server 2017 14.</description>
     </item>
-    
-    <item>
-      <title>The privacy a right or a stupidity?</title>
-      <link>https://kyb3rcipher.com/blog/the-privacy-a-right-or-a-stupidity/</link>
-      <pubDate>Tue, 07 Sep 2021 13:34:21 -0500</pubDate>
-      
-      <guid>https://kyb3rcipher.com/blog/the-privacy-a-right-or-a-stupidity/</guid>
-      <description>Basic I think we should start at the beginning by defining privacy. The Cambridge dictionary defines it as:
-&amp;ldquo;Someone&amp;rsquo;s right to keep their personal matters and relationships secret&amp;rdquo;
-In computing we can save personal data, when we access a site or upload something to the internet, this data is created many times from locations, photos, relationships with other people or dates of birth. This often helps as the theme of saving cookies that you had in your shopping cart means that you do not have to add everything manually or save your email so that your friends can find you.</description>
-    </item>
-    
-    <item>
-      <title>How to create a custom Arch Linux image</title>
-      <link>https://kyb3rcipher.com/blog/how-to-create-a-custom-arch-linux-image/</link>
-      <pubDate>Fri, 13 Aug 2021 22:39:08 -0500</pubDate>
-      
-      <guid>https://kyb3rcipher.com/blog/how-to-create-a-custom-arch-linux-image/</guid>
-      <description>But hey, we better start.
-Why create a custom Arch Linux image? It is tedious having to personally configure Arch Linux every time you install it, so you can generate your own image with all your configuration and not have to do this process over and over again.
-Do not create another distribution Please, as I already explained in the post that talks about this, do not create another one based on Arch, create a customazida image for yourself but do not rename the distro or the promotions as a new one only as a customization.</description>
-    </item>
-    
-    <item>
-      <title>Why not create more Linux distributions</title>
-      <link>https://kyb3rcipher.com/blog/why-not-create-more-linux-distributions/</link>
-      <pubDate>Tue, 10 Aug 2021 17:16:42 -0500</pubDate>
-      
-      <guid>https://kyb3rcipher.com/blog/why-not-create-more-linux-distributions/</guid>
-      <description>Debian I want you to think about the number of Debian &amp;ldquo;distributions&amp;quot;that you know, this number is huge and they are distros that are useless and only damage Linux because many things have to be repackaged and makes use more difficult. So why create another Linux &amp;ldquo;distribution&amp;rdquo;?
-For a better desktop environment, you can do it but why better not create the configuration and turn it into a script and that anyone can install it on their Linux</description>
-    </item>
-    
-    <item>
-      <title>New Blog</title>
-      <link>https://kyb3rcipher.com/blog/new-blog/</link>
-      <pubDate>Thu, 13 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://kyb3rcipher.com/blog/new-blog/</guid>
-      <description>After a few months of wanting to do it and having a domain for email use only, I decided to open a blog. Here I will go up from hacking stuff like writeups to shit 💩 posting about myself :)</description>
-    </item>
-    
     <item>
       <title>Parrot ARM</title>
       <link>https://kyb3rcipher.com/projects/parrot-rpi/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://kyb3rcipher.com/projects/parrot-rpi/</guid>
       <description></description>
     </item>
-    
+    <item>
+      <title>The privacy a right or a stupidity?</title>
+      <link>https://kyb3rcipher.com/blog/the-privacy-a-right-or-a-stupidity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kyb3rcipher.com/blog/the-privacy-a-right-or-a-stupidity/</guid>
+      <description>Basic I think we should start at the beginning by defining privacy. The Cambridge dictionary defines it as:&#xA;&amp;ldquo;Someone&amp;rsquo;s right to keep their personal matters and relationships secret&amp;rdquo;&#xA;In computing we can save personal data, when we access a site or upload something to the internet, this data is created many times from locations, photos, relationships with other people or dates of birth. This often helps as the theme of saving cookies that you had in your shopping cart means that you do not have to add everything manually or save your email so that your friends can find you.</description>
+    </item>
+    <item>
+      <title>Why not create more Linux distributions</title>
+      <link>https://kyb3rcipher.com/blog/why-not-create-more-linux-distributions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kyb3rcipher.com/blog/why-not-create-more-linux-distributions/</guid>
+      <description>Debian I want you to think about the number of Debian &amp;ldquo;distributions&amp;quot;that you know, this number is huge and they are distros that are useless and only damage Linux because many things have to be repackaged and makes use more difficult. So why create another Linux &amp;ldquo;distribution&amp;rdquo;?&#xA;For a better desktop environment, you can do it but why better not create the configuration and turn it into a script and that anyone can install it on their Linux</description>
+    </item>
   </channel>
 </rss>
