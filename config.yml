@@ -1,5 +1,5 @@
 baseURL: https://kyb3rcipher.com
-title: kyb3r :]
+title: kyb3r
 paginate: 5
 theme: charlolamode
 
@@ -12,14 +12,10 @@ menu:
         - name: Projects
           url: projects
           weight: 20
-        - name: Contact
-          url: contact/
-          weight: 30
 
 
 params:
     author: Me
-
 
     defaultTheme: auto
     # disableThemeToggle: true
@@ -33,13 +29,9 @@ params:
     profileMode:
         enabled: true
         title: Kyb3r Cipher
-        description: |
-
-          Hi there, I am Kyb3r.
-           I am a software developer and hacker.
+        description: Software developer, SysAdmin and hacker
         
         imageUrl: "/images/profile.jpeg"
-        imageTitle: my image
     mainSections:
       - articles
 
@@ -51,13 +43,11 @@ params:
         - name: instagram
           url: "https://www.instagram.com/kyb3rcipher"
         - name: telegram
-          url: "https://t.me/kyb3rcipherr"
+          url: "https://t.me/kyb3rcipher"
         - name: linkedin
           url: "https://www.linkedin.com/in/kyb3rcipher"
         - name: pgpkey
           url: "/kyb3rcipher.gpg"
-        - name: user
-          url: "https://itsgaelgt.ga"
         - name: email
           url: "mailto:me@kyb3rcipher.com"
 
@@ -76,4 +66,3 @@ pygmentsUseClasses: true
 
 minify:
     disableXML: true
-
