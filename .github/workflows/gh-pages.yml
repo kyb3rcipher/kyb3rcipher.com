@@ -22,10 +22,9 @@ jobs:
           # extended: true
 
       - name: Build
-        run: hugo --minify
+        run: hugo --minify && echo 'kyb3rcipher.com' > public/CNAME
 
       - name: Deploy
-        run: echo "kyb3rcipher.com" > public/CNAME
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
