@@ -8,6 +8,13 @@
     <language>en</language>
     <atom:link href="https://kyb3rcipher.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>A.S.I.S.T.E.M</title>
+      <link>https://kyb3rcipher.com/projects/asistem/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://kyb3rcipher.com/projects/asistem/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Archetype - HackTheBox Writeup</title>
       <link>https://kyb3rcipher.com/blog/archetype-htb-writeup/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
