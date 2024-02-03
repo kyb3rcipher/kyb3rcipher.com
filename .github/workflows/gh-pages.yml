@@ -25,6 +25,7 @@ jobs:
         run: hugo --minify
 
       - name: Deploy
+        run: echo "kyb3rcipher.com" > public/CNAME
         uses: peaceiris/actions-gh-pages@v3
         if: github.ref == 'refs/heads/main'
         with:
