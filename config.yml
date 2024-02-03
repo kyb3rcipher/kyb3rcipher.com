@@ -29,7 +29,7 @@ params:
     profileMode:
         enabled: true
         title: Kyb3r Cipher
-        description: Software developer, SysAdmin and hacker
+        description: Software developer, SysAdmin and Hacker
         
         imageUrl: "/images/profile.jpeg"
     mainSections:
